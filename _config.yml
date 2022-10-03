@@ -6,11 +6,11 @@ highlighter:      rouge
 permalink:        /blog/:categories/:year-:month-:day-:title/
 
 # Setup
-title:            The SNL Coefficient
+title:            SNL Coefficient
 tagline:          Understanding the role of SNL in media
 description:      Understanding the role of SNL in media 
 url:              https://emilyesten.com
-baseurl: /the-snl-coefficient
+baseurl:          /the-snl-coefficient
 
 paginate:         10
 paginate_path: 	  blog/page:num
