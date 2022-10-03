@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The SNL Coefficient</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-10-02T21:00:38-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/the-snl-coefficient/atom.xml" rel="self"/>
+ <link href="/the-snl-coefficient/"/>
+ <updated>2022-10-02T21:31:27-04:00</updated>
+ <id>/the-snl-coefficient</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Types of Media</title>
-   <link href="http://localhost:4000/blog/2022-09-30-types-of-media/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-types-of-media/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/types-of-media</id>
+   <id>/the-snl-coefficient/blog/types-of-media</id>
    <content type="html">&lt;p&gt;Looking at all potential SNL media:&lt;/p&gt;
 
 &lt;p&gt;#potential-snl-by-media-type.html&lt;/p&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Sample Post</title>
-   <link href="http://localhost:4000/blog/2022-09-30-tina-fey/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-tina-fey/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/tina-fey</id>
+   <id>/the-snl-coefficient/blog/tina-fey</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -72,27 +72,27 @@
  
  <entry>
    <title>SNL Media By Year</title>
-   <link href="http://localhost:4000/blog/2022-09-30-snl-media-by-year/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-snl-media-by-year/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/snl-media-by-year</id>
+   <id>/the-snl-coefficient/blog/snl-media-by-year</id>
    <content type="html">&lt;p&gt;#include snl-media-by-year.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Sample Post</title>
-   <link href="http://localhost:4000/blog/2022-09-30-potential-snl/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-potential-snl/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/potential-snl</id>
+   <id>/the-snl-coefficient/blog/potential-snl</id>
    <content type="html">&lt;p&gt;#include potential-snl.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>People</title>
-   <link href="http://localhost:4000/blog/2022-09-30-people-and-networks/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-people-and-networks/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/people-and-networks</id>
+   <id>/the-snl-coefficient/blog/people-and-networks</id>
    <content type="html">&lt;p&gt;Bar Chart of Alums Involved in SNL Media (that aren’t directly associated with SNL)&lt;/p&gt;
 
 &lt;p&gt;Which alums do a MAJORITY of their eligible filmography above the SNL coefficient&lt;/p&gt;
@@ -137,9 +137,9 @@
  
  <entry>
    <title>Genres</title>
-   <link href="http://localhost:4000/blog/2022-09-30-genres/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-genres/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/genres</id>
+   <id>/the-snl-coefficient/blog/genres</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -180,27 +180,27 @@
  
  <entry>
    <title>Sample Post</title>
-   <link href="http://localhost:4000/blog/2022-09-30-feature-films/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-feature-films/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/feature-films</id>
+   <id>/the-snl-coefficient/blog/feature-films</id>
    <content type="html">&lt;p&gt;##include snl_feature_films.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Definitive SNL</title>
-   <link href="http://localhost:4000/blog/2022-09-30-definitive-snl/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-definitive-snl/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/definitive-snl</id>
+   <id>/the-snl-coefficient/blog/definitive-snl</id>
    <content type="html">&lt;p&gt;#include definitive_snl.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Bill Hader</title>
-   <link href="http://localhost:4000/blog/2022-09-30-bill-hader/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-bill-hader/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/bill-hader</id>
+   <id>/the-snl-coefficient/blog/bill-hader</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -241,9 +241,9 @@
  
  <entry>
    <title>Adam Sandler</title>
-   <link href="http://localhost:4000/blog/2022-09-30-adam-sandler/"/>
+   <link href="/the-snl-coefficient/blog/2022-09-30-adam-sandler/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>http://localhost:4000/blog/adam-sandler</id>
+   <id>/the-snl-coefficient/blog/adam-sandler</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
