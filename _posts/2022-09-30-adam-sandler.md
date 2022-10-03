@@ -6,3 +6,5 @@ layout: post
 summary: "Here is where the summary goes."
 ---
 {% include visualizations/adam-sandler.html %}
+
+Adam Sandler is an actor. 
