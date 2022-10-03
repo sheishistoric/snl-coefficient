@@ -5,14 +5,14 @@
     <link href="http://gmpg.org/xfn/11" rel="profile">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <link rel="canonical" href="http://localhost:4000/archive/" />
+    <link rel="canonical" href="http://localhost:4000/blog/2022-09-30-genres/" />
 
     <!-- Enable responsiveness on mobile devices-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     <title>
       
-        Blog Posts &middot; The SNL Coefficient
+        Genres &middot; The SNL Coefficient
       
     </title>
 
@@ -139,10 +139,50 @@
 
 
     <div class="content container">
-      <h1 class="page-title">Blog Posts</h1>
-<hr />
+      <div class="post">
+  <h1 class="post-title">Genres</h1>
+  <span class="post-date">30 Sep 2022 <small><em>tagged in </em></small></span>
+  
+  <p>&lt;!DOCTYPE html&gt;</p>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": "bar", "encoding": {"x": {"field": "count", "type": "quantitative"}, "y": {"field": "genres", "sort": "-x", "type": "nominal"}}}, {"mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 3}, "encoding": {"text": {"field": "count", "type": "quantitative"}, "x": {"field": "count", "type": "quantitative"}, "y": {"field": "genres", "sort": "-x", "type": "nominal"}}}], "data": {"name": "data-0c811f8e18508b219aeb010ab0c1eb02"}, "height": 900, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-0c811f8e18508b219aeb010ab0c1eb02": [{"genres": "Comedy", "count": 129}, {"genres": "Documentary", "count": 24}, {"genres": "Music", "count": 21}, {"genres": "News", "count": 17}, {"genres": "Short", "count": 11}, {"genres": "Drama", "count": 10}, {"genres": "", "count": 9}, {"genres": "Animation", "count": 9}, {"genres": "Adventure", "count": 7}, {"genres": "Biography", "count": 6}, {"genres": "Talk-Show", "count": 4}, {"genres": "History", "count": 4}, {"genres": "Action", "count": 4}, {"genres": "Mystery", "count": 4}, {"genres": "Romance", "count": 4}, {"genres": "Fantasy", "count": 4}, {"genres": "Family", "count": 3}, {"genres": "Musical", "count": 3}, {"genres": "Reality-TV", "count": 3}, {"genres": "Crime", "count": 2}, {"genres": "Sci-Fi", "count": 2}, {"genres": "Horror", "count": 1}, {"genres": "Sport", "count": 1}, {"genres": "Western", "count": 1}]}};
+      var embedOpt = {"mode": "vega-lite"};
 
-<div>
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
+
+</div>
+
+<div class="related">
+  <h2>Recent Posts</h2>
   <ul class="related-posts">
     
       <li>
@@ -172,75 +212,14 @@
         </h3>
       </li>
     
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-potential-snl/">
-            Sample Post
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-people-and-networks/">
-            People
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-genres/">
-            Genres
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-feature-films/">
-            Sample Post
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-definitive-snl/">
-            The Definitive SNL
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-bill-hader/">
-            Bill Hader
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-adam-sandler/">
-            Adam Sandler
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
   </ul>
+  <h2>Archives</h2>
+  <a href="/blog/archive">By Chronology</a>
 </div>
 
 
       <div class="revision">
-        <small><i><a href="https://github.com/jeffreymoro/jeffreymoro-dot-com/commits/master/archive.md"><i class="fa fa-refresh" aria-hidden="true"></i> revision history for this page</a></i></small>
+        <small><i><a href="https://github.com/jeffreymoro/jeffreymoro-dot-com/commits/master/_posts/2022-09-30-genres.md"><i class="fa fa-refresh" aria-hidden="true"></i> revision history for this page</a></i></small>
       </div>
     </div>
 

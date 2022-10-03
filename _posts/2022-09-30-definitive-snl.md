@@ -6,4 +6,4 @@ layout: post
 summary: "Here is where the summary goes."
 ---
 
-{% include visualizations/definitive-snl.html %}
+#include definitive_snl.html

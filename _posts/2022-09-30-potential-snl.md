@@ -5,3 +5,4 @@ author: admin
 layout: post
 summary: "Here is where the summary goes."
 ---
+#include potential-snl.html

@@ -5,4 +5,4 @@ author: admin
 layout: post
 summary: "Here is where the summary goes."
 ---
-{% include visualizations/adam-sandler.html %}
+{% include adam_sandler.html %}
