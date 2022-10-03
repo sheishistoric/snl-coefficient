@@ -1,0 +1,55 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        /blog/:categories/:year-:month-:day-:title/
+
+# Setup
+title:            The SNL Coefficient
+tagline:          Understanding the role of SNL in media
+description:      Understanding the role of SNL in media 
+url:              https://emilyesten.com/the-snl-coefficient
+
+paginate:         10
+paginate_path: 	  blog/page:num
+
+# Sass settings
+sass:
+  sass_dir: assets/css/_scss
+  style: compressed
+
+# Full URL for indexing
+url: https://emilyesten.com/the-snl-coefficient
+
+#Google Services
+google_analytics: UA-151637703-1
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+# Markdown
+kramdown:
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# Collections
+collections:
+
+# Excludes
+exclude:
+  - CNAME
+  - LICENSE.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock

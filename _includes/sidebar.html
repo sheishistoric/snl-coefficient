@@ -1,0 +1,31 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <!-- Sidebar -->
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/About">About The Project</a>
+      <a class="sidebar-nav-item" href="/archive">Blog Archive</a>
+      <a class="sidebar-nav-item" href="/introduction">Introducing the Coefficient</a>
+      <a class="sidebar-nav-item" href="/explorer">Explore Visualization</a>
+    </nav>
+
+    <!-- Share sheet -->
+    <div class="sharesheet">
+      <a href="https://github.com/sheishistoric/snl_coefficient" target="_blank"><i class="fa fa-fw fa-github shareicon"></i></a>
+      <a href="/atom.xml" target="_blank"><i class="fa fa-fw fa-rss shareicon"></i></a>
+      <a id="showmailbox"><i class="fa fa-fw fa-envelope-o shareicon"></i></a>
+        <div id="mailbox">Write us at estenemily [at] gmail.com</div>
+    </div>
+    <div class="credit">
+      <p>&copy; {{ site.time | date: '%Y' }} / I built this with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> & <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> & help from <a href="https://github.com/jeffreymoro" target="_blank">@jeffreymoro</a></p>
+    </div>
+  </div>
+</div>
