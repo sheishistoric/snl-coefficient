@@ -18,7 +18,7 @@ Tina Fey (Former *SNL* head writer and repertory player, 1997-2006) began her fo
 
 It is standard, to refer to the work that a writer/actor/director/producer is best known for at the time of a project’s release. *Anchorman* (2004) came two years after star Will Ferrell’s departure from *SNL* but still drew comparison: Empire claimed the film had the “hit-and-miss quality of an extended *Saturday Night Live sketch*.”[^5] 
 
-Yet, 15 years after Adam Sandler and Fred Wolf left *SNL*, mentions of the show continued to spring up in reviews of *Grown Ups* (2010), suggesting that for many alum, *SNL* retains a key aspect of their professional resume. 
+Yet, 15 years after Adam Sandler and Fred Wolf left *SNL*, mentions of the show continued to spring up in reviews of *Grown Ups* (2010), suggesting that for many alumni, *SNL* retains a key aspect of their professional resume. [^6]
 
 ## What is an *SNL* film?
 Returning to our earlier point – focusing on *SNL* and other media entities rather than individuals – we consider the so-called “*SNL* film.” In various fan-centric rankings, there are between 11 and 14 “*SNL* films” as of 2022. [^7][^8][^9].
