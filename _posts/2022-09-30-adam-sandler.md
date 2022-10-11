@@ -24,7 +24,7 @@ Since 1995, he has collaborated with several of his *SNL* costars, meriting a qu
 
 Based on our data, we developed a chart to further quantify Sandler's reputation for "hiring his friends" to fill out casting in his productions. 
  
-[INSERT GRAPH HERE].
+{% include adam_sandler_collabs.html %}
 
 At present, 15 Sandler-involved projects have an *SNL* coefficient of at least 1.
 

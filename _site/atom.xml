@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The SNL Coefficient</title>
- <link href="/the-snl-coefficient/atom.xml" rel="self"/>
- <link href="/the-snl-coefficient/"/>
- <updated>2022-10-02T21:35:48-04:00</updated>
- <id>/the-snl-coefficient</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2022-10-11T16:06:11-04:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Types of Media</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-types-of-media/"/>
+   <link href="/blog/2022-09-30-types-of-media/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/types-of-media</id>
+   <id>/blog/types-of-media</id>
    <content type="html">&lt;p&gt;Looking at all potential SNL media:&lt;/p&gt;
 
 &lt;p&gt;#potential-snl-by-media-type.html&lt;/p&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Sample Post</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-tina-fey/"/>
+   <link href="/blog/2022-09-30-tina-fey/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/tina-fey</id>
+   <id>/blog/tina-fey</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -72,27 +72,27 @@
  
  <entry>
    <title>SNL Media By Year</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-snl-media-by-year/"/>
+   <link href="/blog/2022-09-30-snl-media-by-year/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/snl-media-by-year</id>
+   <id>/blog/snl-media-by-year</id>
    <content type="html">&lt;p&gt;#include snl-media-by-year.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Sample Post</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-potential-snl/"/>
+   <link href="/blog/2022-09-30-potential-snl/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/potential-snl</id>
+   <id>/blog/potential-snl</id>
    <content type="html">&lt;p&gt;#include potential-snl.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>People</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-people-and-networks/"/>
+   <link href="/blog/2022-09-30-people-and-networks/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/people-and-networks</id>
+   <id>/blog/people-and-networks</id>
    <content type="html">&lt;p&gt;Bar Chart of Alums Involved in SNL Media (that aren’t directly associated with SNL)&lt;/p&gt;
 
 &lt;p&gt;Which alums do a MAJORITY of their eligible filmography above the SNL coefficient&lt;/p&gt;
@@ -137,9 +137,9 @@
  
  <entry>
    <title>Genres</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-genres/"/>
+   <link href="/blog/2022-09-30-genres/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/genres</id>
+   <id>/blog/genres</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -180,27 +180,27 @@
  
  <entry>
    <title>Sample Post</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-feature-films/"/>
+   <link href="/blog/2022-09-30-feature-films/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/feature-films</id>
+   <id>/blog/feature-films</id>
    <content type="html">&lt;p&gt;##include snl_feature_films.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Definitive SNL</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-definitive-snl/"/>
+   <link href="/blog/2022-09-30-definitive-snl/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/definitive-snl</id>
+   <id>/blog/definitive-snl</id>
    <content type="html">&lt;p&gt;#include definitive_snl.html&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Bill Hader</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-bill-hader/"/>
+   <link href="/blog/2022-09-30-bill-hader/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/bill-hader</id>
+   <id>/blog/bill-hader</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -241,9 +241,9 @@
  
  <entry>
    <title>Adam Sandler</title>
-   <link href="/the-snl-coefficient/blog/2022-09-30-adam-sandler/"/>
+   <link href="/blog/2022-09-30-adam-sandler/"/>
    <updated>2022-09-30T00:00:00-04:00</updated>
-   <id>/the-snl-coefficient/blog/adam-sandler</id>
+   <id>/blog/adam-sandler</id>
    <content type="html">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -279,6 +279,66 @@
   &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
+
+&lt;p&gt;&lt;em&gt;I was fired, I was fired&lt;/em&gt;
+&lt;em&gt;NBC said that I was done&lt;/em&gt;
+&lt;em&gt;Then I made over $4 billion at the box office&lt;/em&gt;
+&lt;em&gt;So I guess you could say I won&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adam Sandler, &lt;em&gt;SNL&lt;/em&gt; Monologue, May 4, 2019 [1]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;24 years after his (involuntary) departure from &lt;em&gt;Saturday Night Live&lt;/em&gt;, Adam Sandler returned as a first-time host to the show in 2019.[^2]&lt;/p&gt;
+
+&lt;p&gt;When discussing the &lt;em&gt;SNL&lt;/em&gt; coefficient, Sandler was one of the first actors that we brought up for analysis.&lt;/p&gt;
+
+&lt;p&gt;While he left unceremoniously, he is arguably one of the most successful cast alumni in the show’s history as a massive film star with his own production company, Happy Madison Productions.&lt;/p&gt;
+
+&lt;p&gt;Since 1995, he has collaborated with several of his &lt;em&gt;SNL&lt;/em&gt; costars, meriting a quantitative &lt;em&gt;Variety&lt;/em&gt; article on the subject.[^3]. Written in 2013, &lt;em&gt;Variety’s&lt;/em&gt; article lists former cast member Rob Schneider and former &lt;em&gt;SNL&lt;/em&gt; writer Tim Herlihy among his most frequent film collaborators.&lt;/p&gt;
+
+&lt;p&gt;Based on our data, we developed a chart to further quantify Sandler’s reputation for “hiring his friends” to fill out casting in his productions.&lt;/p&gt;
+
+&lt;p&gt;[INSERT GRAPH HERE].&lt;/p&gt;
+
+&lt;p&gt;At present, 15 Sandler-involved projects have an &lt;em&gt;SNL&lt;/em&gt; coefficient of at least 1.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One project is a widely-accepted &lt;em&gt;SNL&lt;/em&gt; media: &lt;em&gt;Coneheads&lt;/em&gt; (1993) with a coefficient of 8.7 and 18 current or former &lt;em&gt;SNL&lt;/em&gt; castmembers&lt;/li&gt;
+  &lt;li&gt;7 films with co-efficients of at least one are produced by Happy Madison Productions&lt;/li&gt;
+  &lt;li&gt;For Happy Madison Productions, Sandler’s most frequent collaborator is Rob Schneider (&lt;em&gt;SNL&lt;/em&gt; writer and castmember 1998-1994) with 21 productions.&lt;/li&gt;
+  &lt;li&gt;For all projects, Sandler’s most frequent collaborator is Chris Rock (&lt;em&gt;SNL&lt;/em&gt; cast member 1990-1993)&lt;/li&gt;
+  &lt;li&gt;Sandler has 9 projects with coefficients above 0.8 and less than 1, with a possibility of moving into the category of &lt;em&gt;SNL&lt;/em&gt; media if the coefficients of individual cast members increase by hosting &lt;em&gt;SNL&lt;/em&gt;, returning to the show as writers or cast members, or receiving &lt;em&gt;Best Of&lt;/em&gt; features&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As shown on our chart, Sandler’s films since 1990 have shown a steady rate of collaboration with actors and writers he met on &lt;em&gt;SNL&lt;/em&gt; or through similar comedy networks.&lt;/p&gt;
+
+&lt;p&gt;His early qualifying projects are not starring roles (&lt;em&gt;Coneheads&lt;/em&gt; (1993) is based on a sketch that premiered long before Sandler was on &lt;em&gt;SNL&lt;/em&gt; and &lt;em&gt;Dirty Work&lt;/em&gt; (1998) starred the late &lt;em&gt;SNL&lt;/em&gt; legend Norm MacDonald).&lt;/p&gt;
+
+&lt;p&gt;This was followed by a steady production of low-coefficient films with 2-6 &lt;em&gt;SNL&lt;/em&gt; cast members including &lt;em&gt;I Now Pronounce You Chuck And Larry&lt;/em&gt; (2007).&lt;/p&gt;
+
+&lt;p&gt;Following the success of &lt;em&gt;Grown Ups&lt;/em&gt; (2010), there is a rapid increase in heavy collaboration with other ensemble films.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Grown Ups&lt;/em&gt;, which featured 11 former &lt;em&gt;SNL&lt;/em&gt; writers or actors including four in starring roles (David Spade, Sandler, Schneider, and Rock), became Sandler’s then-highest-grossing film worldwide with a gross of $271.4 million.[^4] The sequel, another box office success, premiered in 2013 with 19 &lt;em&gt;SNL&lt;/em&gt; alumni in the credits.&lt;/p&gt;
+
+&lt;p&gt;In the next decade, Sandler was involved in 12 films with &lt;em&gt;SNL&lt;/em&gt; coefficients above 1. In fact, Sandler had a qualifying project for 8 years in a row from 2010 to 2017 (&lt;em&gt;Hotel Transylvania 3&lt;/em&gt; (2018) did not have as high a coefficient as its two predecessors).&lt;/p&gt;
+
+&lt;p&gt;Potential &lt;em&gt;SNL&lt;/em&gt; media expanded greatly in the 2010s, with significant credit to Sandler’s production company and ensemble-focused comedy projects. While his last qualifying film, &lt;em&gt;Hubie Halloween&lt;/em&gt; (2020) came out two years ago, Sandler continues to build his comedy networks from &lt;em&gt;SNL&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In recent talks with &lt;em&gt;Variety&lt;/em&gt;, Sandler suggested that he may return as a host, potentially boosting past projects above the minimum coefficient. [^5]. Current cast members are also slated to appear in his upcoming projects with Sarah Sherman in &lt;em&gt;You Are SO Not Invited to My Bat Mitzvah!&lt;/em&gt; (2023).&lt;/p&gt;
+
+&lt;p&gt;Sandler’s departure from &lt;em&gt;SNL&lt;/em&gt; under less than ideal conditions did not prevent him from building a career in the comedy world. In fact, his time on the show permitted a great number of his films to exist in the way they do today.&lt;/p&gt;
+
+&lt;p&gt;##References
+[^1] Sandler, A. (2019, May 5). “Adam Sandler’s “I Was Fired” Monologue - SNL.” [Video]. Youtube. https://www.youtube.com/watch?v=eghK5yMpNuc&lt;/p&gt;
+
+&lt;p&gt;[^2] NBCUniversal. (2019, April 5). “Adam Sandler To Return To ‘Saturday Night Live’ For His First Time As Host With Musical Guest Shawn Mendes On May 4.” &lt;em&gt;NBC Entertainment&lt;/em&gt;. https://www.nbcuniversal.com/press-release/adam-sandler-return-saturday-night-live-his-first-time-host-musical-guest-shawn&lt;/p&gt;
+
+&lt;p&gt;[^3] Chaney, J. (2013, July 13). “A Quantitative Ranking of Adam Sandler’s Movie BFFs.” &lt;em&gt;Variety&lt;/em&gt;. https://www.vulture.com/2013/07/adam-sandler-costars-friends-ranking.html&lt;/p&gt;
+
+&lt;p&gt;[^4] &lt;em&gt;Grown Ups 2&lt;/em&gt; (2022, October 11). &lt;em&gt;Box Office Mojo&lt;/em&gt;. https://www.boxofficemojo.com/release/rl2589427201/&lt;/p&gt;
+
+&lt;p&gt;[^5] Schneider, M. (2022, September 29). “Adam Sandler (Hustle)”. In &lt;em&gt;“Awards Circuit”&lt;/em&gt;. &lt;em&gt;Variety&lt;/em&gt;. https://variety.com/2022/film/awards/adam-sandler-hustle-snl-waterboy-sequel-podcast-1235387290/&lt;/p&gt;
+
 </content>
  </entry>
  
