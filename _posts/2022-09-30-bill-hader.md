@@ -1,7 +1,7 @@
 ---
 title: Bill Hader: *SNL* Auteur
 date: 2022-09-30
-author: admin
+author: Kathrine Esten
 layout: post
 summary: "Bill Hader intended to be a director - Did *SNL* get him there?"
 ---

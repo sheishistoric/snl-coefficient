@@ -1,7 +1,7 @@
 ---
-title: Adam Sandler
+title: Adam Sandler, *Happy Madison Productions*, and the Making of a Comedy Career
 date: 2022-09-30
-author: admin
+author: Kathrine Esten
 layout: post
 summary: "Adam Sandler and Happy Madison Productions: *SNL* Media Potential"
 ---

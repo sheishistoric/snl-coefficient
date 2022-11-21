@@ -1,7 +1,7 @@
 ---
 title: The Definitive SNL
 date: 2022-09-30
-author: admin
+author: Kathrine Esten
 layout: post
 summary: "Potential *SNL* Media spans many genres"
 ---
