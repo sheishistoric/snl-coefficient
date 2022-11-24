@@ -1,12 +1,12 @@
 ---
-title: Bill Hader: *SNL* Auteur
-date: 2022-09-30
+title: "Bill Hader: <i>SNL</i> Auteur"
+date: 2022-11-01
 author: Kathrine Esten
 layout: post
 summary: "Bill Hader intended to be a director - Did *SNL* get him there?"
 ---
 
-#Before *The Hottest Club in New York* 
+## Before *The Hottest Club in New York* 
 
 With eight years as an *SNL* cast member under his belt and a long list of film and televisions credits, Bill Hader remains one of the most popular alumni of the show in recent years. 
 
@@ -18,13 +18,13 @@ Mullally recommended Hader to Lorne Michaels, and in 2005, Hader officially join
 
  “Going from Second City L.A. to ‘S.N.L.’ was like going from preschool straight to Harvard,” Hader said in an interview with *The New Yorker*. “It made me feel, ‘The whole nation will see that I’m a fraud!’ ” [^3]
 
-#Leaving *SNL*
+## Leaving *SNL*
 
 Hader left *SNL* in 2013 and immediately found that while the show had granted him a significant degree of fame, it was as a performer rather than a creator. Agents and producers pushed him to focus on his comedy roots, even suggesting a film based on his *SNL* character of Stefon (co-created with former writer John Mulaney). [^3]
 
 While early post-*SNL* projects involved fellow *SNL* alumni, research on his career trajectory reveals a greater reliance on people he met within comedy that were willing to take him outside of television and outside of sketch performance. 
 
-#Analysis
+## Analysis
 
 In our study of the *SNL* Coefficient, we've created a chart of Hader-affiliated projects by start year. Some are incongruous with  Hader's timeline as television projects are listed by year of premiere rather than the year Hader appeared. For example, *Curb Your Enthusiasm* is listed as a project in 2000 while Hader's 2021 appearance on the show was after he departed *SNL*. 
 
@@ -33,7 +33,7 @@ Visually, two observations are immediately clear.
 1) Qualifying media between 2010 and 2020 are overwhelmingly *SNL* specials or awards ceremonies. 
 2) While Hader's career involves a great degree of collaboration, those relationships have not produced *SNL* media. 
 
-{% include bill_hader.html %}
+{% include bill_hader/bill_hader.html %}
 
 During’s Hader’s tenure on *SNL* and immediately following, there was a flurry of official *SNL*-related media, mainly surrounding the show’s 40th Anniversary Special. There was also a new tradition of holiday specials (*Saturday Night Live Christmas Special* began in 2012, followed by the Thanksgiving Special in 2014). These, along with several *Best Of* and spin-off programming such as *Weekend Update: Summer Edition* (2008), make up the majority of qualifying media in our data. 
 
@@ -47,13 +47,14 @@ Despite being one of the most popular *SNL* alumni, Hader’s current projects h
 
 Hader's data is a story of how *SNL* can be a launchpad, but not necessarily constrained to the show’s boundaries. 
 
+## References
 
-[^1] Hiatt, B. (2011, January 20). “Jimmy Fallon’s Big Adventure.” *Rolling Stone*. https://www.rollingstone.com/music/music-news/jimmy-fallons-big-adventure-182204/
+[^1]: Hiatt, B. (2011, January 20). “Jimmy Fallon’s Big Adventure.” *Rolling Stone*. https://www.rollingstone.com/music/music-news/jimmy-fallons-big-adventure-182204/
 
-[^2] Barshad, A. (2014, August 25). “Bill Hader’s Day Off.” *Grantland*. http://grantland.com/features/bill-hader-saturday-night-live-snl-week/
+[^2]: Barshad, A. (2014, August 25). “Bill Hader’s Day Off.” *Grantland*. http://grantland.com/features/bill-hader-saturday-night-live-snl-week/
 
-[^3] Friend, T. (2019. March 11). “Bill Hader Kills.” *The New Yorker*. https://www.newyorker.com/magazine/2019/03/18/bill-hader-kills?gclsrc=aw.ds&gclid=Cj0KCQjwteOaBhDuARIsADBqRejUl9PuBCZyCmTVNcK67ygLNrGT5P6fjQEsfiG0440wxSPCtNYTxTAaAit-EALw_wcB&gclsrc=aw.ds
+[^3]: Friend, T. (2019. March 11). “Bill Hader Kills.” *The New Yorker*. https://www.newyorker.com/magazine/2019/03/18/bill-hader-kills?gclsrc=aw.ds&gclid=Cj0KCQjwteOaBhDuARIsADBqRejUl9PuBCZyCmTVNcK67ygLNrGT5P6fjQEsfiG0440wxSPCtNYTxTAaAit-EALw_wcB&gclsrc=aw.ds
 
-[^4] Bice, E. (2018, April 9). “Bill Hader and Alec Berg talk ‘Barry’” *The Michigan Daily*. https://www.michigandaily.com/arts/barry-bill-hader-interview-tv/
+[^4]: Bice, E. (2018, April 9). “Bill Hader and Alec Berg talk ‘Barry’” *The Michigan Daily*. https://www.michigandaily.com/arts/barry-bill-hader-interview-tv/
 
-[^5] Rahman, R. (2017, August 4). “Bill Hader discusses ‘SNL’ newbie, Pete Davidson, his own hosting debut.” *Entertainment Weekly*. https://ew.com/article/2014/09/29/bill-hader-pete-davidson-snl/
+[^5]: Rahman, R. (2017, August 4). “Bill Hader discusses ‘SNL’ newbie, Pete Davidson, his own hosting debut.” *Entertainment Weekly*. https://ew.com/article/2014/09/29/bill-hader-pete-davidson-snl/

@@ -1,11 +1,12 @@
 ---
 title: Which of the Feature Films is the Most-SNL?
 date: 2022-09-30
-author: admin
+author: Kathrine Esten
 layout: post
-summary: "They come from France: *Coneheads* and the SNL co-efficient*
+summary: "They come from France: *Coneheads* and the SNL co-efficient*"
 ---
-##include snl_feature_films.html
+
+{% include feature_films/definitive_films.html %}
 
 58 films (not including TV Movies) surpassed the 1.0 SNL co-efficient line set in our project. Among these, the film with the highest co-efficient (a whopping 8.706) was ... *drum roll* ... *Coneheads* (1993).
 
@@ -25,14 +26,15 @@ In contrast, Chevy Chase has six qualifying films. Curtin and Gilda Radner have 
 
 However, we also took this opportunity to examine the producer of the film: Lorne Michaels. As explained in [INSERT NAME OF ARTICLE THAT TALKS ABOUT CALCULATIONS], we artificially inflated Michaels' impact as his coefficient was initially low due to lack of acting or minimal writing credits. Pulling from his fims alone, we can see that he has been associated with a consistent number of projects in the past 50 years.
 
-##[EMILY -- Insert a graph that shows Lorne Michaels film projects from 1970 to present that have coefficients over 1] 
+{% include feature_films/lorne_michaels_films.html %} 
 
 As seen on the chart, Michaels' didn't cease producing films in the late 1990s, though the *SNL* coefficients in his films plummeted after this decade with the exception of several documentaries and *MacGruber* (2010). At the same time, the number of qualifying television series with Michaels' involvement increased. 
 
-##[EMILY -- insert a graph that shows Michaels television series from 1970 to present that have coefficients over 1].
+{% include feature_films/lorne_michaels_tv.html %}
 
 Our data suggests that over time, *SNL* alum have had an increasing preference to move into television projects rather than feature films, perhaps bringing their *SNL* connections with them. 
 
+## References
  
-[^1] Shales, T. and J.A. Miller. (2002). *Live from New York: An Uncensored History of *Saturday Night Live* * Thomas W. Shales and Jimmy the Writer, Inc. 
-[^2] Bahr, R. (2017) "Does 'Coneheads' Actually Suck?" *Vice*. https://www.vice.com/en/article/kz349z/does-coneheads-actually-suck
+[^1]: Shales, T. and J.A. Miller. (2002). *Live from New York: An Uncensored History of *Saturday Night Live* * Thomas W. Shales and Jimmy the Writer, Inc. 
+[^2]: Bahr, R. (2017) "Does 'Coneheads' Actually Suck?" *Vice*. https://www.vice.com/en/article/kz349z/does-coneheads-actually-suck

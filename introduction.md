@@ -4,7 +4,7 @@ title: Introducing The SNL Coefficient
 ---
 # Mean Girls is a *Saturday Night Live* film, and other data findings 
 
-By Emily Esten and Kathrine Esten
+### By Emily Esten and Kathrine Esten
 
 Introduction 
 For mathematics scholars, there is the “Erdös number”; for film and other media buffs, the “Bacon number” is a facsimile. [^1] Both explore degrees of connection: how do professionals in a field interact and find connections with one another? Our project takes the long-running variety sketch comedy show *Saturday Night Live* and considers its potential impact on media production (ie. films, television, podcasts, etc.) 

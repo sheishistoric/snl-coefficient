@@ -12,7 +12,7 @@
 
     <title>
       
-        Adam Sandler &middot; The SNL Coefficient
+        Adam Sandler, <i>Happy Madison Productions</i>, and the Making of a Comedy Career &middot; The SNL Coefficient
       
     </title>
 
@@ -140,11 +140,11 @@
 
     <div class="content container">
       <div class="post">
-  <h1 class="post-title">Adam Sandler</h1>
-  <span class="post-date">30 Sep 2022 <small><em>tagged in </em></small></span>
+  <h1 class="post-title">Adam Sandler, <i>Happy Madison Productions</i>, and the Making of a Comedy Career</h1>
+  <h2>by Kathrine Esten</h2>
+  <span class="post-date">30 Sep 2022</span>
   
-  <p>&lt;!DOCTYPE html&gt;</p>
-<html>
+  <html>
 <head>
   <style>
     .error {
@@ -187,17 +187,50 @@
   <li>Adam Sandler, <em>SNL</em> Monologue, May 4, 2019 [1]</li>
 </ul>
 
-<p>24 years after his (involuntary) departure from <em>Saturday Night Live</em>, Adam Sandler returned as a first-time host to the show in 2019.[^2]</p>
+<p>24 years after his (involuntary) departure from <em>Saturday Night Live</em>, Adam Sandler returned as a first-time host to the show in 2019.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>When discussing the <em>SNL</em> coefficient, Sandler was one of the first actors that we brought up for analysis.</p>
 
 <p>While he left unceremoniously, he is arguably one of the most successful cast alumni in the show’s history as a massive film star with his own production company, Happy Madison Productions.</p>
 
-<p>Since 1995, he has collaborated with several of his <em>SNL</em> costars, meriting a quantitative <em>Variety</em> article on the subject.[^3]. Written in 2013, <em>Variety’s</em> article lists former cast member Rob Schneider and former <em>SNL</em> writer Tim Herlihy among his most frequent film collaborators.</p>
+<p>Since 1995, he has collaborated with several of his <em>SNL</em> costars, meriting a quantitative <em>Variety</em> article on the subject.<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">2</a></sup>. Written in 2013, <em>Variety’s</em> article lists former cast member Rob Schneider and former <em>SNL</em> writer Tim Herlihy among his most frequent film collaborators.</p>
 
 <p>Based on our data, we developed a chart to further quantify Sandler’s reputation for “hiring his friends” to fill out casting in his productions.</p>
 
-<p>[INSERT GRAPH HERE].</p>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis1"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-8930b3c171a58daa35103887dcee9aeb"}, "mark": "bar", "encoding": {"color": {"field": "title", "type": "nominal"}, "order": {"field": "title", "sort": "ascending", "type": "nominal"}, "tooltip": [{"field": "title", "title": "Title", "type": "nominal"}], "x": {"aggregate": "count", "field": "title", "type": "nominal"}, "y": {"field": "snl_alums", "type": "nominal"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-8930b3c171a58daa35103887dcee9aeb": [{"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Jerry Minor"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Chris Parnell"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Michaela Watkins"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Ana Gasteyer"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Laura Kightlinger"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Anthony Michael Hall"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "David Koechner"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Tim Meadows"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt2712740/", "title": "The Goldbergs", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0790772/", "title": "Rules of Engagement", "snl_alums": "Carol Leifer"}, {"imdb_link": "https://www.imdb.com/title/tt0790772/", "title": "Rules of Engagement", "snl_alums": "Bob Odenkirk"}, {"imdb_link": "https://www.imdb.com/title/tt0790772/", "title": "Rules of Engagement", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0783342/", "title": "Gay Robot", "snl_alums": "Tom Gianas"}, {"imdb_link": "https://www.imdb.com/title/tt0380930/", "title": "The Mayor", "snl_alums": "Adam Resnick"}, {"imdb_link": "https://www.imdb.com/title/tt0380930/", "title": "The Mayor", "snl_alums": "Christine Ebersole"}, {"imdb_link": "https://www.imdb.com/title/tt1618434/", "title": "Murder Mystery", "snl_alums": "Dan Bulla"}, {"imdb_link": "https://www.imdb.com/title/tt1449273/", "title": "Todd's Coma", "snl_alums": "Ben Stiller"}, {"imdb_link": "https://www.imdb.com/title/tt3450650/", "title": "Paul Blart: Mall Cop 2", "snl_alums": "Ana Gasteyer"}, {"imdb_link": "https://www.imdb.com/title/tt0489282/", "title": "Strange Wilderness", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt0489282/", "title": "Strange Wilderness", "snl_alums": "Peter Gaulke"}, {"imdb_link": "https://www.imdb.com/title/tt8009428/", "title": "Hustle", "snl_alums": "Heidi Gardner"}, {"imdb_link": "https://www.imdb.com/title/tt0852713/", "title": "The House Bunny", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt0233157/", "title": "Adam Sandler: What the Hell Happened to Me?", "snl_alums": "Chris Farley"}, {"imdb_link": "https://www.imdb.com/title/tt9036126/", "title": "Adam Sandler: 100% Fresh", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0280590/", "title": "Mr. Deeds", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0280590/", "title": "Mr. Deeds", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0960731/", "title": "Bedtime Stories", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0960731/", "title": "Bedtime Stories", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0302640/", "title": "The Hot Chick", "snl_alums": "Ian Maxtone-Graham"}, {"imdb_link": "https://www.imdb.com/title/tt0302640/", "title": "The Hot Chick", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt1086772/", "title": "Blended", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt1086772/", "title": "Blended", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt1086772/", "title": "Blended", "snl_alums": "Steve Koren"}, {"imdb_link": "https://www.imdb.com/title/tt1411664/", "title": "Bucky Larson: Born to Be a Star", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt1411664/", "title": "Bucky Larson: Born to Be a Star", "snl_alums": "Jimmy Fallon"}, {"imdb_link": "https://www.imdb.com/title/tt0205000/", "title": "Deuce Bigalow: Male Gigolo", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0205000/", "title": "Deuce Bigalow: Male Gigolo", "snl_alums": "Norm MacDonald"}, {"imdb_link": "https://www.imdb.com/title/tt14592064/", "title": "Home Team", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt14592064/", "title": "Home Team", "snl_alums": "Chloe Fineman"}, {"imdb_link": "https://www.imdb.com/title/tt0255798/", "title": "The Animal", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0255798/", "title": "The Animal", "snl_alums": "Norm MacDonald"}, {"imdb_link": "https://www.imdb.com/title/tt9619798/", "title": "The Wrong Missy", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt9619798/", "title": "The Wrong Missy", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0389860/", "title": "Click", "snl_alums": "Rachel Dratch"}, {"imdb_link": "https://www.imdb.com/title/tt0389860/", "title": "Click", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0389860/", "title": "Click", "snl_alums": "Steve Koren"}, {"imdb_link": "https://www.imdb.com/title/tt0389860/", "title": "Click", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0456554/", "title": "Grandma's Boy", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0456554/", "title": "Grandma's Boy", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0456554/", "title": "Grandma's Boy", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0295427/", "title": "The Master of Disguise", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0295427/", "title": "The Master of Disguise", "snl_alums": "Dana Carvey"}, {"imdb_link": "https://www.imdb.com/title/tt0343660/", "title": "50 First Dates", "snl_alums": "Dan Aykroyd"}, {"imdb_link": "https://www.imdb.com/title/tt0343660/", "title": "50 First Dates", "snl_alums": "Maya Rudolph"}, {"imdb_link": "https://www.imdb.com/title/tt0343660/", "title": "50 First Dates", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0367652/", "title": "Deuce Bigalow: European Gigolo", "snl_alums": "Fred Armisen"}, {"imdb_link": "https://www.imdb.com/title/tt0367652/", "title": "Deuce Bigalow: European Gigolo", "snl_alums": "Norm MacDonald"}, {"imdb_link": "https://www.imdb.com/title/tt0367652/", "title": "Deuce Bigalow: European Gigolo", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt1564367/", "title": "Just Go with It", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt1564367/", "title": "Just Go with It", "snl_alums": "Rachel Dratch"}, {"imdb_link": "https://www.imdb.com/title/tt1564367/", "title": "Just Go with It", "snl_alums": "Steve Koren"}, {"imdb_link": "https://www.imdb.com/title/tt1564367/", "title": "Just Go with It", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0305224/", "title": "Anger Management", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0305224/", "title": "Anger Management", "snl_alums": "Nancy Carell"}, {"imdb_link": "https://www.imdb.com/title/tt0305224/", "title": "Anger Management", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0305224/", "title": "Anger Management", "snl_alums": "Dan Vitale"}, {"imdb_link": "https://www.imdb.com/title/tt0271263/", "title": "Eight Crazy Nights", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0271263/", "title": "Eight Crazy Nights", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt0271263/", "title": "Eight Crazy Nights", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt4126340/", "title": "Joe Dirt 2: Beautiful Loser", "snl_alums": "Dennis Miller"}, {"imdb_link": "https://www.imdb.com/title/tt4126340/", "title": "Joe Dirt 2: Beautiful Loser", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt4126340/", "title": "Joe Dirt 2: Beautiful Loser", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0398165/", "title": "The Longest Yard", "snl_alums": "Tracy Morgan"}, {"imdb_link": "https://www.imdb.com/title/tt0398165/", "title": "The Longest Yard", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0398165/", "title": "The Longest Yard", "snl_alums": "Chris Rock"}, {"imdb_link": "https://www.imdb.com/title/tt0398165/", "title": "The Longest Yard", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0762107/", "title": "I Now Pronounce You Chuck & Larry", "snl_alums": "Dan Aykroyd"}, {"imdb_link": "https://www.imdb.com/title/tt0762107/", "title": "I Now Pronounce You Chuck & Larry", "snl_alums": "Rachel Dratch"}, {"imdb_link": "https://www.imdb.com/title/tt0762107/", "title": "I Now Pronounce You Chuck & Larry", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0762107/", "title": "I Now Pronounce You Chuck & Larry", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0762107/", "title": "I Now Pronounce You Chuck & Larry", "snl_alums": "Robert Smigel"}, {"imdb_link": "https://www.imdb.com/title/tt0325258/", "title": "Dickie Roberts: Former Child Star", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt0325258/", "title": "Dickie Roberts: Former Child Star", "snl_alums": "Rachel Dratch"}, {"imdb_link": "https://www.imdb.com/title/tt0325258/", "title": "Dickie Roberts: Former Child Star", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt0325258/", "title": "Dickie Roberts: Former Child Star", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0960144/", "title": "You Don't Mess with the Zohan", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0960144/", "title": "You Don't Mess with the Zohan", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0960144/", "title": "You Don't Mess with the Zohan", "snl_alums": "Chris Rock"}, {"imdb_link": "https://www.imdb.com/title/tt0960144/", "title": "You Don't Mess with the Zohan", "snl_alums": "Robert Smigel"}, {"imdb_link": "https://www.imdb.com/title/tt0437863/", "title": "The Benchwarmers", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0437863/", "title": "The Benchwarmers", "snl_alums": "Tim Meadows"}, {"imdb_link": "https://www.imdb.com/title/tt0437863/", "title": "The Benchwarmers", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt0437863/", "title": "The Benchwarmers", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt6821012/", "title": "The Week Of", "snl_alums": "Rachel Dratch"}, {"imdb_link": "https://www.imdb.com/title/tt6821012/", "title": "The Week Of", "snl_alums": "Chris Rock"}, {"imdb_link": "https://www.imdb.com/title/tt6821012/", "title": "The Week Of", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt6821012/", "title": "The Week Of", "snl_alums": "Robert Smigel"}, {"imdb_link": "https://www.imdb.com/title/tt0245686/", "title": "Joe Dirt", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0245686/", "title": "Joe Dirt", "snl_alums": "Dennis Miller"}, {"imdb_link": "https://www.imdb.com/title/tt0245686/", "title": "Joe Dirt", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt0245686/", "title": "Joe Dirt", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "Dana Carvey"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "Norm MacDonald"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "Steve Koren"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "Tim Meadows"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0810913/", "title": "Jack and Jill", "snl_alums": "Robert Smigel"}, {"imdb_link": "https://www.imdb.com/title/tt1232200/", "title": "That's My Boy", "snl_alums": "Rachel Dratch"}, {"imdb_link": "https://www.imdb.com/title/tt1232200/", "title": "That's My Boy", "snl_alums": "Andy Samberg"}, {"imdb_link": "https://www.imdb.com/title/tt1232200/", "title": "That's My Boy", "snl_alums": "Ana Gasteyer"}, {"imdb_link": "https://www.imdb.com/title/tt1232200/", "title": "That's My Boy", "snl_alums": "Colin Quinn"}, {"imdb_link": "https://www.imdb.com/title/tt1232200/", "title": "That's My Boy", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt1232200/", "title": "That's My Boy", "snl_alums": "Will Forte"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Chris Parnell"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Norm MacDonald"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Chris Kattan"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "Will Forte"}, {"imdb_link": "https://www.imdb.com/title/tt2479478/", "title": "The Ridiculous 6", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Dana Carvey"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Ellen Cleghorne"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Michael McKean"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt0185431/", "title": "Little Nicky", "snl_alums": "Robert Smigel"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Chris Parnell"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Molly Shannon"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Rob Riggle"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Andy Samberg"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Paul Brittain"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt0837562/", "title": "Hotel Transylvania", "snl_alums": "Robert Smigel"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Steve Koren"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Norm MacDonald"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Maya Rudolph"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Colin Quinn"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Chris Rock"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Tim Meadows"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt1375670/", "title": "Grown Ups", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Conan O'Brien"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Kevin Nealon"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Janeane Garofalo"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Dana Carvey"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Chris Elliott"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Lorne Michaels"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Rob Schneider"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Colin Quinn"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Chris Rock"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt5893332/", "title": "Sandy Wexler", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Akiva Schaffer"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Bobby Moynihan"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Colin Quinn"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Paul Brittain"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Fred Wolf"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Maya Rudolph"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Cheri Oteri"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Chris Rock"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Jon Lovitz"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Tim Herlihy"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "David Spade"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Taran Killam"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Andy Samberg"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Tim Meadows"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Melanie Hutsell"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Ellen Cleghorne"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Jorma Taccone"}, {"imdb_link": "https://www.imdb.com/title/tt2191701/", "title": "Grown Ups 2", "snl_alums": "Will Forte"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis1');
+      vegaEmbed("#vis1", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
 
 <p>At present, 15 Sandler-involved projects have an <em>SNL</em> coefficient of at least 1.</p>
 
@@ -217,27 +250,34 @@
 
 <p>Following the success of <em>Grown Ups</em> (2010), there is a rapid increase in heavy collaboration with other ensemble films.</p>
 
-<p><em>Grown Ups</em>, which featured 11 former <em>SNL</em> writers or actors including four in starring roles (David Spade, Sandler, Schneider, and Rock), became Sandler’s then-highest-grossing film worldwide with a gross of $271.4 million.[^4] The sequel, another box office success, premiered in 2013 with 19 <em>SNL</em> alumni in the credits.</p>
+<p><em>Grown Ups</em>, which featured 11 former <em>SNL</em> writers or actors including four in starring roles (David Spade, Sandler, Schneider, and Rock), became Sandler’s then-highest-grossing film worldwide with a gross of $271.4 million.<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">3</a></sup> The sequel, another box office success, premiered in 2013 with 19 <em>SNL</em> alumni in the credits.</p>
 
 <p>In the next decade, Sandler was involved in 12 films with <em>SNL</em> coefficients above 1. In fact, Sandler had a qualifying project for 8 years in a row from 2010 to 2017 (<em>Hotel Transylvania 3</em> (2018) did not have as high a coefficient as its two predecessors).</p>
 
 <p>Potential <em>SNL</em> media expanded greatly in the 2010s, with significant credit to Sandler’s production company and ensemble-focused comedy projects. While his last qualifying film, <em>Hubie Halloween</em> (2020) came out two years ago, Sandler continues to build his comedy networks from <em>SNL</em>.</p>
 
-<p>In recent talks with <em>Variety</em>, Sandler suggested that he may return as a host, potentially boosting past projects above the minimum coefficient. [^5]. Current cast members are also slated to appear in his upcoming projects with Sarah Sherman in <em>You Are SO Not Invited to My Bat Mitzvah!</em> (2023).</p>
+<p>In recent talks with <em>Variety</em>, Sandler suggested that he may return as a host, potentially boosting past projects above the minimum coefficient. <sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">4</a></sup>. Current cast members are also slated to appear in his upcoming projects with Sarah Sherman in <em>You Are SO Not Invited to My Bat Mitzvah!</em> (2023).</p>
 
 <p>Sandler’s departure from <em>SNL</em> under less than ideal conditions did not prevent him from building a career in the comedy world. In fact, his time on the show permitted a great number of his films to exist in the way they do today.</p>
 
-<p>##References
-[^1] Sandler, A. (2019, May 5). “Adam Sandler’s “I Was Fired” Monologue - SNL.” [Video]. Youtube. https://www.youtube.com/watch?v=eghK5yMpNuc</p>
+<h2 id="references">References</h2>
 
-<p>[^2] NBCUniversal. (2019, April 5). “Adam Sandler To Return To ‘Saturday Night Live’ For His First Time As Host With Musical Guest Shawn Mendes On May 4.” <em>NBC Entertainment</em>. https://www.nbcuniversal.com/press-release/adam-sandler-return-saturday-night-live-his-first-time-host-musical-guest-shawn</p>
-
-<p>[^3] Chaney, J. (2013, July 13). “A Quantitative Ranking of Adam Sandler’s Movie BFFs.” <em>Variety</em>. https://www.vulture.com/2013/07/adam-sandler-costars-friends-ranking.html</p>
-
-<p>[^4] <em>Grown Ups 2</em> (2022, October 11). <em>Box Office Mojo</em>. https://www.boxofficemojo.com/release/rl2589427201/</p>
-
-<p>[^5] Schneider, M. (2022, September 29). “Adam Sandler (Hustle)”. In <em>“Awards Circuit”</em>. <em>Variety</em>. https://variety.com/2022/film/awards/adam-sandler-hustle-snl-waterboy-sequel-podcast-1235387290/</p>
-
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:2" role="doc-endnote">
+      <p>NBCUniversal. (2019, April 5). “Adam Sandler To Return To ‘Saturday Night Live’ For His First Time As Host With Musical Guest Shawn Mendes On May 4.” <em>NBC Entertainment</em>. https://www.nbcuniversal.com/press-release/adam-sandler-return-saturday-night-live-his-first-time-host-musical-guest-shawn <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Chaney, J. (2013, July 13). “A Quantitative Ranking of Adam Sandler’s Movie BFFs.” <em>Variety</em>. https://www.vulture.com/2013/07/adam-sandler-costars-friends-ranking.html <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p><em>Grown Ups 2</em> (2022, October 11). <em>Box Office Mojo</em>. https://www.boxofficemojo.com/release/rl2589427201/ <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>Schneider, M. (2022, September 29). “Adam Sandler (Hustle)”. In <em>“Awards Circuit”</em>. <em>Variety</em>. https://variety.com/2022/film/awards/adam-sandler-hustle-snl-waterboy-sequel-podcast-1235387290/ <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 </div>
 
@@ -247,8 +287,17 @@
     
       <li>
         <h3>
-          <a href="/blog/2022-09-30-types-of-media/">
-            Types of Media
+          <a href="/blog/2022-11-01-bill-hader/">
+            Bill Hader: <i>SNL</i> Auteur
+            <small>01 Nov 2022</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/2022-09-30-feature-films/">
+            Which of the Feature Films is the Most-SNL?
             <small>30 Sep 2022</small>
           </a>
         </h3>
@@ -256,17 +305,8 @@
     
       <li>
         <h3>
-          <a href="/blog/2022-09-30-tina-fey/">
-            Sample Post
-            <small>30 Sep 2022</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/blog/2022-09-30-snl-media-by-year/">
-            SNL Media By Year
+          <a href="/blog/2022-09-30-definitive-snl/">
+            The Definitive SNL
             <small>30 Sep 2022</small>
           </a>
         </h3>

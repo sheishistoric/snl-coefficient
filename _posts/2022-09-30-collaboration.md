@@ -1,6 +1,6 @@
 ---
 title: Collaboration
-date: 2022-09-30
+date: 2023-09-30
 author: Emily Esten
 layout: post
 summary: "How has SNL facilitated connections amongst community?"

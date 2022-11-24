@@ -1,11 +1,11 @@
 ---
-title: Adam Sandler, *Happy Madison Productions*, and the Making of a Comedy Career
+title: "Adam Sandler, <i>Happy Madison Productions</i>, and the Making of a Comedy Career"
 date: 2022-09-30
 author: Kathrine Esten
 layout: post
-summary: "Adam Sandler and Happy Madison Productions: *SNL* Media Potential"
+summary: "Adam Sandler and Happy Madison Productions: <i>SNL</i> Media Potential"
 ---
-{% include adam_sandler.html %}
+{% include adam_sandler/adam_sandler.html %}
 
 
 *I was fired, I was fired*
@@ -24,7 +24,7 @@ Since 1995, he has collaborated with several of his *SNL* costars, meriting a qu
 
 Based on our data, we developed a chart to further quantify Sandler's reputation for "hiring his friends" to fill out casting in his productions. 
  
-{% include adam_sandler_collabs.html %}
+{% include adam_sandler/adam_sandler_collabs.html %}
 
 At present, 15 Sandler-involved projects have an *SNL* coefficient of at least 1.
 
@@ -50,18 +50,19 @@ Potential *SNL* media expanded greatly in the 2010s, with significant credit to 
 
 In recent talks with *Variety*, Sandler suggested that he may return as a host, potentially boosting past projects above the minimum coefficient. [^5]. Current cast members are also slated to appear in his upcoming projects with Sarah Sherman in *You Are SO Not Invited to My Bat Mitzvah!* (2023). 
 
-Sandler's departure from *SNL* under less than ideal conditions did not prevent him from building a career in the comedy world. In fact, his time on the show permitted a great number of his films to exist in the way they do today.  
+Sandler's departure from *SNL* under less than ideal conditions did not prevent him from building a career in the comedy world. In fact, his time on the show permitted a great number of his films to exist in the way they do today. 
 
 
-##References
-[^1] Sandler, A. (2019, May 5). "Adam Sandler's "I Was Fired" Monologue - SNL." [Video]. Youtube. https://www.youtube.com/watch?v=eghK5yMpNuc 
+## References
 
-[^2] NBCUniversal. (2019, April 5). "Adam Sandler To Return To 'Saturday Night Live' For His First Time As Host With Musical Guest Shawn Mendes On May 4." *NBC Entertainment*. https://www.nbcuniversal.com/press-release/adam-sandler-return-saturday-night-live-his-first-time-host-musical-guest-shawn
+[^1]: Sandler, A. (2019, May 5). "Adam Sandler's "I Was Fired" Monologue - SNL." [Video]. Youtube. https://www.youtube.com/watch?v=eghK5yMpNuc 
 
-[^3] Chaney, J. (2013, July 13). "A Quantitative Ranking of Adam Sandler's Movie BFFs." *Variety*. https://www.vulture.com/2013/07/adam-sandler-costars-friends-ranking.html
+[^2]: NBCUniversal. (2019, April 5). "Adam Sandler To Return To 'Saturday Night Live' For His First Time As Host With Musical Guest Shawn Mendes On May 4." *NBC Entertainment*. https://www.nbcuniversal.com/press-release/adam-sandler-return-saturday-night-live-his-first-time-host-musical-guest-shawn
 
-[^4] *Grown Ups 2* (2022, October 11). *Box Office Mojo*. https://www.boxofficemojo.com/release/rl2589427201/
+[^3]: Chaney, J. (2013, July 13). "A Quantitative Ranking of Adam Sandler's Movie BFFs." *Variety*. https://www.vulture.com/2013/07/adam-sandler-costars-friends-ranking.html
 
-[^5] Schneider, M. (2022, September 29). "Adam Sandler (Hustle)". In *“Awards Circuit”*. *Variety*. https://variety.com/2022/film/awards/adam-sandler-hustle-snl-waterboy-sequel-podcast-1235387290/
+[^4]: *Grown Ups 2* (2022, October 11). *Box Office Mojo*. https://www.boxofficemojo.com/release/rl2589427201/
+
+[^5]: Schneider, M. (2022, September 29). "Adam Sandler (Hustle)". In *“Awards Circuit”*. *Variety*. https://variety.com/2022/film/awards/adam-sandler-hustle-snl-waterboy-sequel-podcast-1235387290/
 
  
