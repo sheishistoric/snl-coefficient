@@ -1,16 +1,16 @@
 ---
 title: The Definitive SNL
-date: 2022-09-30
+date: 2022-10-1
 author: Kathrine Esten
 layout: post
 summary: "Potential *SNL* Media spans many genres"
 ---
 
-At the very heart of this project, we wanted to learn the genre distribution of potential *SNL* media. From the broadly-agreed upon media that originates in the show's sketches or characters, our beginning hypothesis was that an overwhelming majority of the potential media. 
+At the very heart of this project, we wanted to learn the genre distribution of potential *SNL* media.  
 
-Following that, we disputed on the second most-frequent genre. Was it the late night talk shows dominated by alumni like Conan O'Brien and Jimmy Fallon? Or was it animated films like *Inside Out* (2015) and *Hotel Transylvania* (2012) that would take a surprising second?
+While comedy dominates the official *SNL* media output, we were curious as to the second most-frequent genre. Was it the late night talk shows dominated by alumni like Conan O'Brien and Jimmy Fallon? Or was it animated films like *Inside Out* (2015) and *Hotel Transylvania* (2012) that would take a surprising second?
 
-Based on our data set, we found that out of qualifying potential and confirmed *SNL* media, we generated a table of the most frequent genres used on IMDB:
+Based on our data set, we generated a table of the most frequent genres used on IMDB:
 
 {% include definitive_snl/definitive_snl_chart.html %}
 

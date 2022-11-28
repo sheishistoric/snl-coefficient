@@ -1,9 +1,9 @@
 ---
 title: Which of the Feature Films is the Most-SNL?
-date: 2022-09-30
+date: 2022-10-17
 author: Kathrine Esten
 layout: post
-summary: "They come from France: *Coneheads* and the SNL co-efficient*"
+summary: "They come from France: *Coneheads*, the Not-Ready-For-Primetime Players, and the SNL co-efficient*"
 ---
 
 {% include feature_films/definitive_films.html %}
@@ -12,7 +12,7 @@ summary: "They come from France: *Coneheads* and the SNL co-efficient*"
 
 In a close second, with 8.175, is *Wayne's World 2*, released only a few months later in 1993. What makes *Coneheads* take the cake over all other *SNL* and potential *SNL* media?
 
-For those unfamiliar with the film, *Coneheads* draws from a recurring sketch in the earliest seasons of *SNL*. Invented as a "total pothead sketch" by combining sketch ideas from Dan Aykroyd (*SNL* 1975-1979) and Tom Davis (*SNL* 1975-2003), the Coneheads are a family of extraterrestrials with towering bald conical heads who must blend into American suburban life. [^1] The starring roles of married couple Beldar and Prymaat were filled by Dan Aykroyd (*SNL* 1975-1979) and Jane Curtin (*SNL* 1975-1980).
+For those unfamiliar with the film, *Coneheads* draws from a recurring sketch in the earliest seasons of *SNL*. Invented as a "total pothead sketch" by combining sketch ideas from Dan Aykroyd (1975-1979) and Tom Davis (1975-2003), the Coneheads are a family of extraterrestrials with towering bald conical heads who must blend into American suburban life. [^1] The starring roles of married couple Beldar and Prymaat were filled by Aykroyd and Jane Curtin (1975-1980).
 
 In saying that this is the "Most-*SNL* Feature Film, we are not arguing that it is good. (Although Robyn Bahr of *Vice* made a compelling argument for the film's relevance in 2017 [^2]). Instead, we draw from specific data points to show how the cast and writers of the show over multiple decades relied on *SNL* connections to make this project in its final form.
 

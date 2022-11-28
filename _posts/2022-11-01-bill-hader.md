@@ -37,7 +37,7 @@ Visually, two observations are immediately clear.
 
 During’s Hader’s tenure on *SNL* and immediately following, there was a flurry of official *SNL*-related media, mainly surrounding the show’s 40th Anniversary Special. There was also a new tradition of holiday specials (*Saturday Night Live Christmas Special* began in 2012, followed by the Thanksgiving Special in 2014). These, along with several *Best Of* and spin-off programming such as *Weekend Update: Summer Edition* (2008), make up the majority of qualifying media in our data. 
 
-The highest-rated media outside of this category and awards ceremonies is *The Awesomes* (2013), an animated television series co-created by Seth Meyers (*SNL*, 2001-2014) and co-produced by Lorne Michaels. 
+The highest-rated media outside of this category and awards ceremonies is *The Awesomes* (2013), an animated television series co-created by Seth Meyers (2001-2014) and co-produced by Lorne Michaels. 
 
 Appearances on comedy series lead by fellow alumni such as Fred Armisen (*Portlandia*) and Tina Fey (*30 Rock*) also have high coefficient ratings. Slightly below the qualifying range (0.6 to 0.99) are ensemble animated features: *Inside Out* (2015)), *Ralph Breaks the Internet* (2015), *The Angry Birds Movie 2* (2019), *Monsters University* (2013). 
 
