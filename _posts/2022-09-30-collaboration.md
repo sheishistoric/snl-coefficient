@@ -20,6 +20,8 @@ Using Melanie Walsh's *Introduction to Cultural Analytics and Python*[1], I crea
 
 Lorne Michaels really is at the center of it all, with 215 connections in the network. This is followed by Fred Armisen, Amy Poehler, Tina Fey, and Bill Hader. 
 
+I
+
 ### Network with Nodes Sized By Filmography & SNL Role 
 ### Network with Nodes Colored By Attribute
 
