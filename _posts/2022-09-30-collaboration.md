@@ -1,13 +1,13 @@
 ---
 title: "Networking Comedy: SNL through Networking Analysis"
-date: 2023-12-30
+date: 2022-12-07
 author: Emily Esten
 layout: post
 summary: "How has SNL facilitated connections amongst community?"
 ---
 One of the key aspects of our definition of an *SNL* film was that alumni worked on a project together. For me, that's one of the more interesting aspects of looking at *SNL* as a franchise. We can certainly talk about the box-office or *star* power *SNL*, but few of those successes are necessarily the result of *SNL* in the long-term. What makes Happy Madison Productions films *SNL* movies (at least by my line of thought) is not that Adam Sandler is involved, but that numerous *SNL* alumni - who met because of the show - continue to work together decades after their time in the cast. *30 Rock* has *SNL* DNA not just from Tina Fey's real-life experiences, but also because of the numerous cameos and casting decisions (not to mention the direct involvement of Lorne Michaels and Broadway Video.)
 
-Looking at the alumni throughout the network, we start to see the importance of a few key alumni - particularly those of the early 2000s - play an important role in how we define "definitive *SNL*". 
+Looking at the alumni throughout the network, we start to see the importance of a few key alumni - particularly those of the early 2000s - play an important role in how we define "definitive *SNL*".
 
 ## Basic Network Analysis
 Using Melanie Walsh's *Introduction to Cultural Analytics and Python*[^1], I created some quick networks visualizations to make sense of collaborations amongst *SNL* alumni. (These networks removes *Saturday Night Live* from the dataset, as that would connect everyone in the network.)
