@@ -1,5 +1,5 @@
 ---
-title: "Networking Comedy: SNL through Networking Analysis"
+title: "Networking Comedy: SNL through Network Analysis"
 date: 2022-12-07
 author: Emily Esten
 layout: post
