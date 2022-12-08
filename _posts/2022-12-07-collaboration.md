@@ -27,32 +27,37 @@ In a network of definitive *SNL* media (sans *SNL*), the concentration changes o
 Connections in this case are represented by the lines in the network graphs. Each line represent a working relationship between two alumni - that they appeared in the same TV show, worked on a film together, or contributed to some project.  
 
 Amongst potential SNL:
-|Alum|Number of Connections|
-|:----|:----|
-|Lorne Michaels|296|
-|Will Ferrell|294|
-|Amy Poehler|284|
-|Tina Fey|283|
-|Tim Meadows|283|
-|Martin Short|283|
-|Fred Armisen|280|
-|Rachel Dratch|278|
-|Bill Hader|278|
-|Conan O'Brien|278|
+|-------------------------|----------------------|
+| **SNL Alum**       | **Number of Connections** |
+|--------------------|---------------------------|
+| **Lorne Michaels** | 296                       |
+| **Will Ferrell**   | 294                       |
+| **Amy Poehler**    | 284                       |
+| **Tina Fey**       | 283                       |
+| **Tim Meadows**    | 283                       |
+| **Martin Short**   | 283                       |
+| **Fred Armisen**   | 280                       |
+| **Rachel Dratch**  | 278                       |
+| **Bill Hader**     | 278                       |
+| **Conan O'Brien**  | 278                       |
+|-------------------------|----------------------|
+
 
 Amongst definitive SNL:
-|Alum|Number of Connections|
-|:----|:----|
-|Lorne Michaels|276|
-|Will Ferrell|243|
-|Tina Fey|235|
-|Jimmy Fallon|233|
-|Fred Armisen|231|
-|Amy Poehler|229|
-|Maya Rudolph|228|
-|Darrell Hammond|227|
-|Kenan Thompson|225|
-|Bill Hader|223|
+|-------------------------|----------------------------|
+| **SNL Alum**            | **Number of Connections**  |
+|-------------------------|----------------------------|
+| **Lorne Michaels**       |276                        |
+| **Will Ferrell**         |243                        |
+| **Tina Fey**             |235                        |
+| **Jimmy Fallon**         |233                        |
+| **Fred Armisen**         |231                        |
+| **Amy Poehler**          |229                        |
+| **Maya Rudolph**         |228                        |
+| **Darrell Hammond**      |227                        |
+| **Kenan Thompson**       |225                        |
+| **Bill Hader**           |223                        |
+|-------------------------|----------------------------|
 
 
 ### Who has the most number of connections in the network (if you factor in edge weight)?
@@ -61,32 +66,36 @@ Edge weight refers to the number of connections between two nodes. An edge in th
 With this in mind, Will Ferrell appears to have a lot of connections across the network - not only does he have a lot of alumni connections throughout both networks, but he has numerous relationships with those alumni. (As we dive into the data further, it's less that Will Ferrell is performing alonside these individuals, but appears on many of the same types of media - *SNL*-related media, talk shows, producing credits, etc.) Tina Fey, Jimmy Fallon, Amy Poehler, and Adam Sandler also appear in both networks, further pointing to their importance as connectors with the *SNL* alumni community.   
 
 Amongst potential SNL:
-|Alum|Weighted Degree|
-|:----|:----|
-|Will Ferrell|5820|
-|Tina Fey|5022|
-|Jimmy Fallon|4889|
-|Amy Poehler|4878|
-|Adam Sandler|4844|
-|Lorne Michaels|4689|
-|Fred Armisen|4430|
-|Chris Rock|4430|
-|Bill Hader|4405|
-|Kevin Nealon|4258|
+|-------------------------|----------------------------|
+| **SNL Alum**            | **Weighted Degree**        |
+|-------------------------|----------------------------|
+| **Will Ferrell**         |5820                       |
+| **Tina Fey**             |5022                       |
+| **Jimmy Fallon**         |4889                       |
+| **Amy Poehler**          |4878                       |
+| **Adam Sandler**         |4844                       |
+| **Lorne Michaels**       |4689                       |
+| **Fred Armisen**         |4430                       |
+| **Chris Rock**           |4430                       |
+| **Bill Hader**           |4405                       |
+| **Kevin Nealon**         |4258                       |
+|-------------------------|----------------------------|
 
 Amongst definitive SNL:
-|Alum|Weighted Degree|
-|:----|:----|
-|Lorne Michaels|3561|
-|Will Ferrell|2234|
-|Jimmy Fallon|2081|
-|Tina Fey|2041|
-|Amy Poehler|2023|
-|Fred Armisen|1845|
-|Adam Sandler|1811|
-|Seth Meyers|1805|
-|Dana Carvey|1771|
-|Maya Rudolph|1747|
+|-------------------------|----------------------------|
+| **SNL Alum**            | **Weighted Degree**        |
+|-------------------------|----------------------------|
+| **Lorne Michaels**       |3561                       |
+| **Will Ferrell**         |2234                       |
+| **Jimmy Fallon**         |2081                       |
+| **Tina Fey**             |2041                       |
+| **Amy Poehler**          |2023                       |
+| **Fred Armisen**         |1845                       |
+| **Adam Sandler**         |1811                       |
+| **Seth Meyers**          |1805                       |
+| **Dana Carvey**          |1771                       |
+| **Maya Rudolph**         |1747                       |
+|-------------------------|----------------------------|
 
 ### Who connects the most other nodes in the network?
 
@@ -95,35 +104,39 @@ Amongst definitive SNL:
 In both potential and definitive *SNL* media, Lorne Michaels reigns supreme within the network. As Kathrine mentions in [Lorne](), he's incredibly important to *SNL* alums for his connections and **SOMETHING**. But more interesting here are how both lists diverge after Lorne. Older alumni feature more prominently amongst potential SNL media, but more recent alumni of the 2000s make the connections amongst recent relationships.
 
 Amongst potential SNL:
-|Alum|Betweenness|
-|:----|:----|
-|Lorne Michaels|0.017263|
-|Conan O'Brien|0.013673|
-|Janeane Garofalo|0.012211|
-|Martin Short|0.010187|
-|Will Ferrell|0.00949|
-|Dennis Miller|0.009258|
-|Julia Sweeney|0.008873|
-|Bill Murray|0.008777|
-|Tim Meadows|0.008297|
-|Amy Poehler|0.008248|
+|-------------------------|---------------------------|
+| **SNL Alum**            | **Betweenness**           |
+|-------------------------|---------------------------|
+| **Lorne Michaels**      |0.017263                   |
+| **Conan O'Brien**       |0.013673                   |
+| **Janeane Garofalo**    |0.012211                   |
+| **Martin Short**        |0.010187                   |
+| **Will Ferrell**        |0.00949                    |
+| **Dennis Miller**       |0.009258                   |
+| **Julia Sweeney**       |0.008873                   |
+| **Bill Murray**         |0.008777                   |
+| **Tim Meadows**         |0.008297                   |
+| **Amy Poehler**         |0.008248                   |
+|-------------------------|---------------------------|
 
 Amongst definitive SNL:
-|Alum|Betweenness|
-|:----|:----|
-|Lorne Michaels|0.064561|
-|Will Ferrell|0.013621|
-|Pete Davidson|0.012454|
-|Fred Armisen|0.010851|
-|James Downey (I)|0.010615|
-|Maya Rudolph|0.010289|
-|Kenan Thompson|0.009915|
-|Tina Fey|0.009603|
-|Bill Murray|0.009263|
-|Will Forte|0.009210|
+|-------------------------|---------------------------|
+| **SNL Alum**            | **Betweenness**           |
+|-------------------------|---------------------------|
+| **Lorne Michaels**      |0.064561                   |
+| **Will Ferrell**        |0.013621                   |
+| **Pete Davidson**       |0.012454                   |
+| **Fred Armisen**        |0.010851                   |
+| **James Downey (I)**    |0.010615                   |
+| **Maya Rudolph**        |0.010289                   |
+| **Kenan Thompson**      |0.009915                   |
+| **Tina Fey**            |0.009603                   |
+| **Bill Murray**         |0.009263                   |
+| **Will Forte**          |0.009210                   |
+|-------------------------|---------------------------|
 
 
 
 
 ## References
-[^1]: Melanie Walsh, Introduction to Cultural Analytics & Python, Version 1 (2021), https://doi.org/10.5281/zenodo.4411250. 
+[^1]: Melanie Walsh, Introduction to Cultural Analytics & Python, Version 1 (2021), https://doi.org/10.5281/zenodo.4411250.
