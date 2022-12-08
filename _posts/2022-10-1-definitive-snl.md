@@ -1,6 +1,6 @@
 ---
 title: The Definitive SNL
-date: 2022-10-1
+date: 2022-10-01
 author: Kathrine Esten
 layout: post
 summary: "Potential *SNL* Media spans many genres"
@@ -14,9 +14,9 @@ Based on our data set, we generated a table of the most frequent genres used on 
 
 {% include definitive_snl/definitive_snl_chart.html %}
 
-As a note, many projects on IMDB are labeled as multiple genres. For example, *SNL* and several *"Best Of"* specials are categorized as "music" due to the live musical performances featured on the show. 
+As a note, many projects on IMDB are labeled as multiple genres. For example, *SNL* and several *"Best Of"* specials are categorized as "music" due to the live musical performances featured on the show.
 
-**Key Findings**
+## Key Findings
 **"Documentary" is the second most-frequent genre for potential *SNL* media**
 **Three categories had only one project apiece and all had Lorne Michaels as a co-producer**:
  - Western: *Three Amigos* (1986)
@@ -36,8 +36,8 @@ In the coversation of whether documentary-style pieces should qualify as *SNL* m
 
 Examining the other key findings, it is clear that Lorne Michael's designated coefficient of 1 leads to a major boost for projects that he co-produces, particularly when they involve prominent alumni. *Hot Rod* and *Three Amigos* each have a coefficient over 3 (3.003 and 3.857, respectively) and *SNL* cast members as leads, but neither appears in a standard list of *SNL* films. *Three Amigos* is also unique among our data points as one of Michaels' few writing credits.
 
-For talk shows, the coefficient is limited in its analysis: by measuring total amount of episodes, any impact *SNL* alumni have on the show is incredibly diluted. 
+For talk shows, the coefficient is limited in its analysis: by measuring total amount of episodes, any impact *SNL* alumni have on the show is incredibly diluted.
 
-Ultimately, the genre bar graph confirms that the *SNL* franchise and other potential *SNL* media are mostly comedy; most other genres are secondary or tertiary genre categories. *Baby Mama* (2008), for example, is both a "comedy" and a "romance." 
+Ultimately, the genre bar graph confirms that the *SNL* franchise and other potential *SNL* media are mostly comedy; most other genres are secondary or tertiary genre categories. *Baby Mama* (2008), for example, is both a "comedy" and a "romance."
 
 {% include definitive_snl/definitive_snl_genres_bar_chart.html %}

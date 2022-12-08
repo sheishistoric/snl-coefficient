@@ -126,7 +126,4 @@ Amongst definitive SNL:
 
 
 ## References
-[^1]: https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/02-Making-Network-Viz-with-Bokeh.html
-[^2]: As mentioned in "About the Coefficient", the person coefficient favors actors over writers.  
-[^3]: https://www.indiewire.com/2019/05/paula-pell-wine-country-snl-interview-1202141133/
-[^4]: https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf
+[^1]: Melanie Walsh, Introduction to Cultural Analytics & Python, Version 1 (2021), https://doi.org/10.5281/zenodo.4411250. 
