@@ -101,7 +101,7 @@ Amongst definitive SNL:
 
 *Betweenness centrality* measures how frequently a node lies on short paths between other pairs of nodes.[^4] In this case, the higher the betweenness centrality for a given individual, the more connections that nodes makes to other nodes.
 
-In both potential and definitive *SNL* media, Lorne Michaels reigns supreme within the network. As Kathrine mentions in [Lorne](), he's incredibly important to *SNL* alums for his connections and **SOMETHING**. But more interesting here are how both lists diverge after Lorne. Older alumni feature more prominently amongst potential SNL media, but more recent alumni of the 2000s make the connections amongst recent relationships.
+In both potential and definitive *SNL* media, Lorne Michaels reigns supreme within the network. As Kathrine mentions in her blog post on the feature films dominant in our study, Lorne is incredibly important to *SNL* alums for his connections and role as a producer. But more interesting here are how both lists diverge after Lorne. Older alumni feature more prominently amongst potential SNL media, but more recent alumni of the 2000s make the connections amongst recent relationships.
 
 Amongst potential SNL:
 |-------------------------|---------------------------|
