@@ -3,12 +3,12 @@ title: Which of the Feature Films is the Most-SNL?
 date: 2022-10-17
 author: Kathrine Esten
 layout: post
-summary: "They come from France: *Coneheads*, the Not-Ready-For-Primetime Players, and the SNL co-efficient*"
+summary: "They come from France: *Coneheads*, the Not-Ready-For-Primetime Players, and the SNL coefficient*"
 ---
 
 {% include feature_films/definitive_films.html %}
 
-58 films (not including TV Movies) surpassed the 1.0 SNL co-efficient line set in our project. Among these, the film with the highest co-efficient (a whopping 8.706) was ... *drum roll* ... *Coneheads* (1993).
+58 films (not including TV Movies) surpassed the 1.0 SNL coefficient line set in our project. Among these, the film with the highest coefficient (a whopping 8.706) was ... *drum roll* ... *Coneheads* (1993).
 
 In a close second, with 8.175, is *Wayne's World 2*, released only a few months later in 1993. What makes *Coneheads* take the cake over all other *SNL* and potential *SNL* media?
 

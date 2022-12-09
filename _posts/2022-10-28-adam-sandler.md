@@ -7,7 +7,7 @@ summary: "Adam Sandler and Happy Madison Productions: <i>SNL</i> Media Potential
 ---
 {% include adam_sandler/adam_sandler.html %}
 
-CAPTION: On the y-axis, see the SNL co-efficient of a "Sandler-verse" project. On the x-axis, see the start year of the project. 
+CAPTION: On the y-axis, see the SNL coefficient of a "Sandler-verse" project. On the x-axis, see the start year of the project. 
 
 
 
@@ -33,7 +33,7 @@ CAPTION: On the y-axis, see *SNL* alums who have collaborated with Sandler durin
 At present, 15 Sandler-involved projects have an *SNL* coefficient of at least 1.
 
 * One project is a widely-accepted *SNL* media: *Coneheads* (1993) with a coefficient of 8.7 and 18 current or former *SNL* castmembers 
-* 7 films with co-efficients of at least one are produced by Happy Madison Productions
+* 7 films with coefficients of at least one are produced by Happy Madison Productions
 * For Happy Madison Productions, Sandler's most frequent collaborator is Rob Schneider (1998-1994) with 21 productions.
 * For all projects, Sandler's most frequent collaborator is Chris Rock (1990-1993)
 * Sandler has 9 projects with coefficients above 0.8 and less than 1, with a possibility of moving into the category of *SNL* media if the coefficients of individual cast members increase by hosting *SNL*, returning to the show as writers or cast members, or receiving *Best Of* features
