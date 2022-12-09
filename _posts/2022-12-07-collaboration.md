@@ -27,37 +27,36 @@ In a network of definitive *SNL* media (sans *SNL*), the concentration changes o
 Connections in this case are represented by the lines in the network graphs. Each line represent a working relationship between two alumni - that they appeared in the same TV show, worked on a film together, or contributed to some project.  
 
 Amongst potential SNL:
-|-------------------------|----------------------|
-| **SNL Alum**       | **Number of Connections** |
-|--------------------|---------------------------|
-| **Lorne Michaels** | 296                       |
-| **Will Ferrell**   | 294                       |
-| **Amy Poehler**    | 284                       |
-| **Tina Fey**       | 283                       |
-| **Tim Meadows**    | 283                       |
-| **Martin Short**   | 283                       |
-| **Fred Armisen**   | 280                       |
-| **Rachel Dratch**  | 278                       |
-| **Bill Hader**     | 278                       |
-| **Conan O'Brien**  | 278                       |
-|-------------------------|----------------------|
 
+<table align="left">
+  <tr><th align="center">SNL Alum</th><th align="center">Number of Connections</th></tr>
+  <tr><td>Lorne Michaels</td><td>296</td></tr>
+  <tr><td>Will Ferrell</td><td>294</td></tr>
+  <tr><td>Amy Poehler</td><td>284</td></tr>
+   <tr><td>Tina Fey</td><td>283</td></tr>
+    <tr><td>Tim Meadows</td><td>283</td></tr>
+    <tr><td>Martin Short</td><td>283</td></tr>
+    <tr><td>Fred Armisen</td><td>280</td></tr>
+    <tr><td>Rachel Dratch</td><td>278</td></tr>
+    <tr><td>Bill Hader</td><td>278</td><</tr>
+    <tr><td>Conan O'Brien</td><td>278</td></tr>
+</table>
 
 Amongst definitive SNL:
-|-------------------------|----------------------------|
-| **SNL Alum**            | **Number of Connections**  |
-|-------------------------|----------------------------|
-| **Lorne Michaels**       |276                        |
-| **Will Ferrell**         |243                        |
-| **Tina Fey**             |235                        |
-| **Jimmy Fallon**         |233                        |
-| **Fred Armisen**         |231                        |
-| **Amy Poehler**          |229                        |
-| **Maya Rudolph**         |228                        |
-| **Darrell Hammond**      |227                        |
-| **Kenan Thompson**       |225                        |
-| **Bill Hader**           |223                        |
-|-------------------------|----------------------------|
+
+<table align="left">
+  <tr><th align="center">SNL Alum</th><th align="center">Number of Connections</th></tr>
+  <tr><td>Lorne Michaels</td><td>276</td></tr>
+  <tr><td>Will Ferrell</td><td>243</td></tr>
+  <tr><td>Tina Fey</td><td>235</td></tr>
+   <tr><td>Jimmy Fallon</td><td>233</td></tr>
+    <tr><td>Fred Armisen</td><td>231</td></tr>
+    <tr><td>Amy Poehler</td><td>229</td></tr>
+    <tr><td>Maya Rudolph</td><td>228</td></tr>
+    <tr><td>Darrell Hammond</td><td>227</td></tr>
+    <tr><td>Kenan Thompson</td><td>225</td><</tr>
+    <tr><td>Bill Hader</td><td>223</td></tr>
+</table>
 
 
 ### Who has the most number of connections in the network (if you factor in edge weight)?
@@ -66,36 +65,37 @@ Edge weight refers to the number of connections between two nodes. An edge in th
 With this in mind, Will Ferrell appears to have a lot of connections across the network - not only does he have a lot of alumni connections throughout both networks, but he has numerous relationships with those alumni. (As we dive into the data further, it's less that Will Ferrell is performing alonside these individuals, but appears on many of the same types of media - *SNL*-related media, talk shows, producing credits, etc.) Tina Fey, Jimmy Fallon, Amy Poehler, and Adam Sandler also appear in both networks, further pointing to their importance as connectors with the *SNL* alumni community.   
 
 Amongst potential SNL:
-|-------------------------|----------------------------|
-| **SNL Alum**            | **Weighted Degree**        |
-|-------------------------|----------------------------|
-| **Will Ferrell**         |5820                       |
-| **Tina Fey**             |5022                       |
-| **Jimmy Fallon**         |4889                       |
-| **Amy Poehler**          |4878                       |
-| **Adam Sandler**         |4844                       |
-| **Lorne Michaels**       |4689                       |
-| **Fred Armisen**         |4430                       |
-| **Chris Rock**           |4430                       |
-| **Bill Hader**           |4405                       |
-| **Kevin Nealon**         |4258                       |
-|-------------------------|----------------------------|
+
+<table align="left">
+  <tr><th align="center">SNL Alum</th><th align="center">Weighted Degree</th></tr>
+  <tr><td>Will Ferrell</td><td>5820</td></tr>
+  <tr><td>Tina Fey</td><td>5022</td></tr>
+  <tr><td>Jimmy Fallon</td><td>4889</td></tr>
+   <tr><td>Amy Poehler</td><td>4878</td></tr>
+    <tr><td>Adam Sandler</td><td>4844</td></tr>
+    <tr><td>Lorne Michaels</td><td>4689</td></tr>
+    <tr><td>Fred Armisen</td><td>4430</td></tr>
+    <tr><td>Chris Rock</td><td>4430</td></tr>
+    <tr><td>Bill Hader</td><td>4405</td><</tr>
+    <tr><td>Kevin Nealon</td><td>4258</td></tr>
+</table>
+
 
 Amongst definitive SNL:
-|-------------------------|----------------------------|
-| **SNL Alum**            | **Weighted Degree**        |
-|-------------------------|----------------------------|
-| **Lorne Michaels**       |3561                       |
-| **Will Ferrell**         |2234                       |
-| **Jimmy Fallon**         |2081                       |
-| **Tina Fey**             |2041                       |
-| **Amy Poehler**          |2023                       |
-| **Fred Armisen**         |1845                       |
-| **Adam Sandler**         |1811                       |
-| **Seth Meyers**          |1805                       |
-| **Dana Carvey**          |1771                       |
-| **Maya Rudolph**         |1747                       |
-|-------------------------|----------------------------|
+
+<table align="left">
+  <tr><th align="center">SNL Alum</th><th align="center">Weighted Degree</th></tr>
+  <tr><td>Lorne Michaels</td><td>3651</td></tr>
+  <tr><td>Will Ferrell</td><td>2234</td></tr>
+  <tr><td>Jimmy Fallon</td><td>2081</td></tr>
+  <tr><td>Tina Fey</td><td>2041</td></tr>
+   <tr><td>Amy Poehler</td><td>2023</td></tr>
+    <tr><td>Fred Armisen</td><td>1845</td></tr>
+    <tr><td>Adam Sandler</td><td>1811</td></tr>
+    <tr><td>Seth Meyers</td><td>1805</td></tr>
+    <tr><td>Dana Carvey</td><td>1771</td></tr>
+    <tr><td>Maya Rudolph</td><td>1747</td><</tr>
+</table>
 
 ### Who connects the most other nodes in the network?
 
@@ -104,38 +104,36 @@ Amongst definitive SNL:
 In both potential and definitive *SNL* media, Lorne Michaels reigns supreme within the network. As Kathrine mentions in her blog post on the feature films dominant in our study, Lorne is incredibly important to *SNL* alums for his connections and role as a producer. But more interesting here are how both lists diverge after Lorne. Older alumni feature more prominently amongst potential SNL media, but more recent alumni of the 2000s make the connections amongst recent relationships.
 
 Amongst potential SNL:
-|-------------------------|---------------------------|
-| **SNL Alum**            | **Betweenness**           |
-|-------------------------|---------------------------|
-| **Lorne Michaels**      |0.017263                   |
-| **Conan O'Brien**       |0.013673                   |
-| **Janeane Garofalo**    |0.012211                   |
-| **Martin Short**        |0.010187                   |
-| **Will Ferrell**        |0.00949                    |
-| **Dennis Miller**       |0.009258                   |
-| **Julia Sweeney**       |0.008873                   |
-| **Bill Murray**         |0.008777                   |
-| **Tim Meadows**         |0.008297                   |
-| **Amy Poehler**         |0.008248                   |
-|-------------------------|---------------------------|
+
+<table align="left">
+  <tr><th align="center">SNL Alum</th><th align="center">Betweenness</th></tr>
+  <tr><td>Lorne Michaels</td><td>0.017263</td></tr>
+  <tr><td>Conan O'Brien</td><td>0.013673</td></tr>
+  <tr><td>Janeane Garofalo</td><td>0.012211</td></tr>
+  <tr><td>Martin Short</td><td>0.010187</td></tr>
+   <tr><td>Will Ferrell</td><td>0.00949</td></tr>
+    <tr><td>Dennis Miller</td><td>0.009258</td></tr>
+    <tr><td>Julia Sweeney</td><td>0.008873</td></tr>
+    <tr><td>Bill Murray</td><td>0.008777</td></tr>
+    <tr><td>Tim Meadows</td><td>0.008297</td></tr>
+    <tr><td>Amy Poehler</td><td>0.008248</td><</tr>
+</table>
 
 Amongst definitive SNL:
-|-------------------------|---------------------------|
-| **SNL Alum**            | **Betweenness**           |
-|-------------------------|---------------------------|
-| **Lorne Michaels**      |0.064561                   |
-| **Will Ferrell**        |0.013621                   |
-| **Pete Davidson**       |0.012454                   |
-| **Fred Armisen**        |0.010851                   |
-| **James Downey (I)**    |0.010615                   |
-| **Maya Rudolph**        |0.010289                   |
-| **Kenan Thompson**      |0.009915                   |
-| **Tina Fey**            |0.009603                   |
-| **Bill Murray**         |0.009263                   |
-| **Will Forte**          |0.009210                   |
-|-------------------------|---------------------------|
 
-
+<table align="left">
+  <tr><th align="center">SNL Alum</th><th align="center">Betweenness</th></tr>
+  <tr><td>Lorne Michaels</td><td>0.064561</td></tr>
+  <tr><td>Will Ferrell</td><td>0.013621</td></tr>
+  <tr><td>Pete Davidson</td><td>0.012454</td></tr>
+  <tr><td>Fred Armisen</td><td>0.010851</td></tr>
+   <tr><td>James Downey (I)</td><td>0.010615</td></tr>
+    <tr><td>Maya Rudolph</td><td>0.010289</td></tr>
+    <tr><td>Kenan Thompson</td><td>0.009915</td></tr>
+    <tr><td>Tina Fey</td><td>0.009603</td></tr>
+    <tr><td>Bill Murray</td><td>0.009263</td></tr>
+    <tr><td>Will Forte</td><td>0.009210</td><</tr>
+</table>
 
 
 ## References
