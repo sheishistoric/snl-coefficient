@@ -1,6 +1,6 @@
 ---
 title: "Bill Hader: <i>SNL</i> Auteur"
-date: 2022-11-01
+date: 2022-11-07
 author: Kathrine Esten
 layout: post
 summary: "Bill Hader intended to be a director - Did *SNL* get him there?"
