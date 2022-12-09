@@ -28,7 +28,7 @@ Connections in this case are represented by the lines in the network graphs. Eac
 
 #### Amongst potential SNL:
 <div>
-<table align="left">
+<table align="center">
   <tr><th align="center">SNL Alum</th><th align="center">Number of Connections</th></tr>
   <tr><td>Lorne Michaels</td><td>296</td></tr>
   <tr><td>Will Ferrell</td><td>294</td></tr>
@@ -45,7 +45,7 @@ Connections in this case are represented by the lines in the network graphs. Eac
 
 #### Amongst definitive SNL:
 <div>
-<table align="left">
+<table align="center">
   <tr><th align="center">SNL Alum</th><th align="center">Number of Connections</th></tr>
   <tr><td>Lorne Michaels</td><td>276</td></tr>
   <tr><td>Will Ferrell</td><td>243</td></tr>
@@ -67,7 +67,7 @@ With this in mind, Will Ferrell appears to have a lot of connections across the 
 
 #### Amongst potential SNL:
 <div>
-<table align="left">
+<table align="center">
   <tr><th align="center">SNL Alum</th><th align="center">Weighted Degree</th></tr>
   <tr><td>Will Ferrell</td><td>5820</td></tr>
   <tr><td>Tina Fey</td><td>5022</td></tr>
@@ -86,7 +86,7 @@ With this in mind, Will Ferrell appears to have a lot of connections across the 
 #### Amongst definitive SNL:
 
 <div>
-<table align="left">
+<table align="center">
   <tr><th align="center">SNL Alum</th><th align="center">Weighted Degree</th></tr>
   <tr><td>Lorne Michaels</td><td>3651</td></tr>
   <tr><td>Will Ferrell</td><td>2234</td></tr>
@@ -110,7 +110,7 @@ In both potential and definitive *SNL* media, Lorne Michaels reigns supreme with
 
 #### Amongst potential SNL:
 <div>
-<table align="left">
+<table align="center">
   <tr><th align="center">SNL Alum</th><th align="center">Betweenness</th></tr>
   <tr><td>Lorne Michaels</td><td>0.017263</td></tr>
   <tr><td>Conan O'Brien</td><td>0.013673</td></tr>
@@ -128,7 +128,7 @@ In both potential and definitive *SNL* media, Lorne Michaels reigns supreme with
 
 #### Amongst definitive SNL:
 <div>
-<table align="left">
+<table align="center">
   <tr><th align="center">SNL Alum</th><th align="center">Betweenness</th></tr>
   <tr><td>Lorne Michaels</td><td>0.064561</td></tr>
   <tr><td>Will Ferrell</td><td>0.013621</td></tr>
