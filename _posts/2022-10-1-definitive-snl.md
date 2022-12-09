@@ -1,6 +1,6 @@
 ---
 title: The Definitive SNL
-date: 2022-10-01
+date: 2022-11-01
 author: Kathrine Esten
 layout: post
 summary: "Potential *SNL* Media spans many genres"
@@ -18,10 +18,12 @@ As a note, many projects on IMDB are labeled as multiple genres. For example, *S
 
 ## Key Findings
 **"Documentary" is the second most-frequent genre for potential *SNL* media**
+
 **Three categories had only one project apiece and all had Lorne Michaels as a co-producer**:
  - Western: *Three Amigos* (1986)
  - Sport: *Hot Rod* (2007)
  - Horror: *Vampires vs the Bronx* (2020)
+
 **Only four "talk shows" had coefficients higher than 1**
  - *Late Night with Conan O'Brien* (1993)
  - *Late Night with Conan O'Brien: 5* (1998), an anniversary special

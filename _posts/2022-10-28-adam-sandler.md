@@ -7,12 +7,15 @@ summary: "Adam Sandler and Happy Madison Productions: <i>SNL</i> Media Potential
 ---
 {% include adam_sandler/adam_sandler.html %}
 
+CAPTION: On the y-axis, see the SNL co-efficient of a "Sandler-verse" project. On the x-axis, see the start year of the project. 
+
+
 
 *I was fired, I was fired*
 *NBC said that I was done*
 *Then I made over $4 billion at the box office*
 *So I guess you could say I won*
-- Adam Sandler, *SNL* Monologue, May 4, 2019 [1]
+- Adam Sandler, *SNL* Monologue, May 4, 2019 [^1]
 
 24 years after his (involuntary) departure from *Saturday Night Live*, Adam Sandler (1990-1995) returned as a first-time host to the show in 2019.[^2] 
 
@@ -25,6 +28,7 @@ Since 1995, he has collaborated with several of his *SNL* costars, meriting a qu
 Based on our data, we developed a chart to further quantify Sandler's reputation for "hiring his friends" to fill out casting in his productions. 
  
 {% include adam_sandler/adam_sandler_collabs.html %}
+CAPTION: On the y-axis, see *SNL* alums who have collaborated with Sandler during and after his time on the show. On the x-axis, view how many projects each contributor has been involved in. Project titles are also visible via color-coding.
 
 At present, 15 Sandler-involved projects have an *SNL* coefficient of at least 1.
 

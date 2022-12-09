@@ -24,7 +24,7 @@ We can also examine our other data to look at why, out of all the early *SNL* sk
 
 In contrast, Chevy Chase has six qualifying films. Curtin and Gilda Radner have five; Lorraine Newman has four; Garrett Morris and John Belushi each have three. Our data might suggest that Aykroyd's continued collaboration made it more likely that his sketches were adapted into larger projects or that his work attracted other *SNL* alum. 
 
-However, we also took this opportunity to examine the producer of the film: Lorne Michaels. As explained in [INSERT NAME OF ARTICLE THAT TALKS ABOUT CALCULATIONS], we artificially inflated Michaels' impact as his coefficient was initially low due to lack of acting or minimal writing credits. Pulling from his fims alone, we can see that he has been associated with a consistent number of projects in the past 50 years.
+However, we also took this opportunity to examine the producer of the film: Lorne Michaels. We artificially inflated Michaels' impact as his coefficient was initially low due to lack of acting or minimal writing credits. Pulling from his fims alone, we can see that he has been associated with a consistent number of projects in the past 50 years.
 
 {% include feature_films/lorne_michaels_films.html %} 
 

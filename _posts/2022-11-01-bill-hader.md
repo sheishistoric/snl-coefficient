@@ -42,7 +42,7 @@ The highest-rated media outside of this category and awards ceremonies is *The A
 Appearances on comedy series lead by fellow alumni such as Fred Armisen (*Portlandia*) and Tina Fey (*30 Rock*) also have high coefficient ratings. Slightly below the qualifying range (0.6 to 0.99) are ensemble animated features: *Inside Out* (2015)), *Ralph Breaks the Internet* (2015), *The Angry Birds Movie 2* (2019), *Monsters University* (2013). 
 
 Despite being one of the most popular *SNL* alumni, Hader’s current projects have relatively low coefficients. Arguably his most prominent ongoing project, *Barry* (2018) is one of only five media items in the "crime" genre in this data set, and has a 0.37. Based on external research, however, we do not exclude him from analysis. His prominence from the show provided a launching pad, albeit in a different direction than the typical comedy fare. 
-*Hader and *Barry* co-creator Alec Berg met through a mutual agent and traveling in the same comedy circles. [^4]
+Hader and *Barry* co-creator Alec Berg met through a mutual agent and traveling in the same comedy circles. [^4]
 * *Trainwreck* (2015) only has a coefficient of 0.81, but it was through this film that Hader met young comedian Pete Davidson. After filming the movie, Hader recommended Davidson to Lorne Michaels, who cast him in the show’s 40th season. A conversation about Davidson’s casting also led to Hader being asked to return for his first appearance as host on October 11, 2014. [^5]
 
 Hader's data is a story of how *SNL* can be a launchpad, but not necessarily constrained to the show’s boundaries. 
