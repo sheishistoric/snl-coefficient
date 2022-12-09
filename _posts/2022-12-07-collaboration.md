@@ -27,7 +27,7 @@ In a network of definitive *SNL* media (sans *SNL*), the concentration changes o
 Connections in this case are represented by the lines in the network graphs. Each line represent a working relationship between two alumni - that they appeared in the same TV show, worked on a film together, or contributed to some project.  
 
 #### Amongst potential SNL:
-
+<div>
 <table align="left">
   <tr><th align="center">SNL Alum</th><th align="center">Number of Connections</th></tr>
   <tr><td>Lorne Michaels</td><td>296</td></tr>
@@ -41,10 +41,10 @@ Connections in this case are represented by the lines in the network graphs. Eac
     <tr><td>Bill Hader</td><td>278</td><</tr>
     <tr><td>Conan O'Brien</td><td>278</td></tr>
 </table>
-<br />
+</div>
 
 #### Amongst definitive SNL:
-
+<div>
 <table align="left">
   <tr><th align="center">SNL Alum</th><th align="center">Number of Connections</th></tr>
   <tr><td>Lorne Michaels</td><td>276</td></tr>
@@ -58,7 +58,7 @@ Connections in this case are represented by the lines in the network graphs. Eac
     <tr><td>Kenan Thompson</td><td>225</td><</tr>
     <tr><td>Bill Hader</td><td>223</td></tr>
 </table>
-
+</div>
 
 ### Who has the most number of connections in the network (if you factor in edge weight)?
 Edge weight refers to the number of connections between two nodes. An edge in this network represents a working relationship between two alumni - the weight of the edge being multiple working relationships. For example, Tina Fey and Amy Poehler have worked together on a number of projects (strong edge weight) while Tina Fey and Bruce Handy have worked together of very few projects (weak edge weight.)
@@ -66,7 +66,7 @@ Edge weight refers to the number of connections between two nodes. An edge in th
 With this in mind, Will Ferrell appears to have a lot of connections across the network - not only does he have a lot of alumni connections throughout both networks, but he has numerous relationships with those alumni. (As we dive into the data further, it's less that Will Ferrell is performing alonside these individuals, but appears on many of the same types of media - *SNL*-related media, talk shows, producing credits, etc.) Tina Fey, Jimmy Fallon, Amy Poehler, and Adam Sandler also appear in both networks, further pointing to their importance as connectors with the *SNL* alumni community.   
 
 #### Amongst potential SNL:
-
+<div>
 <table align="left">
   <tr><th align="center">SNL Alum</th><th align="center">Weighted Degree</th></tr>
   <tr><td>Will Ferrell</td><td>5820</td></tr>
@@ -81,9 +81,11 @@ With this in mind, Will Ferrell appears to have a lot of connections across the 
     <tr><td>Kevin Nealon</td><td>4258</td></tr>
 </table>
 <br />
+  </div>
 
 #### Amongst definitive SNL:
 
+<div>
 <table align="left">
   <tr><th align="center">SNL Alum</th><th align="center">Weighted Degree</th></tr>
   <tr><td>Lorne Michaels</td><td>3651</td></tr>
@@ -98,6 +100,7 @@ With this in mind, Will Ferrell appears to have a lot of connections across the 
     <tr><td>Maya Rudolph</td><td>1747</td><</tr>
 </table>
 <br />
+  </div>
 
 ### Who connects the most other nodes in the network?
 
@@ -106,7 +109,7 @@ With this in mind, Will Ferrell appears to have a lot of connections across the 
 In both potential and definitive *SNL* media, Lorne Michaels reigns supreme within the network. As Kathrine mentions in her blog post on the feature films dominant in our study, Lorne is incredibly important to *SNL* alums for his connections and role as a producer. But more interesting here are how both lists diverge after Lorne. Older alumni feature more prominently amongst potential SNL media, but more recent alumni of the 2000s make the connections amongst recent relationships.
 
 #### Amongst potential SNL:
-
+<div>
 <table align="left">
   <tr><th align="center">SNL Alum</th><th align="center">Betweenness</th></tr>
   <tr><td>Lorne Michaels</td><td>0.017263</td></tr>
@@ -121,9 +124,10 @@ In both potential and definitive *SNL* media, Lorne Michaels reigns supreme with
     <tr><td>Amy Poehler</td><td>0.008248</td><</tr>
 </table>
 <br />
+  </div>
 
 #### Amongst definitive SNL:
-
+<div>
 <table align="left">
   <tr><th align="center">SNL Alum</th><th align="center">Betweenness</th></tr>
   <tr><td>Lorne Michaels</td><td>0.064561</td></tr>
@@ -137,6 +141,7 @@ In both potential and definitive *SNL* media, Lorne Michaels reigns supreme with
     <tr><td>Bill Murray</td><td>0.009263</td></tr>
     <tr><td>Will Forte</td><td>0.009210</td><</tr>
 </table>
+  </div>
 <br />
 
 ## References
