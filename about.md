@@ -12,9 +12,9 @@ The code for this project is hosted on [GitHub](https://github.com/orgs/snl-coef
 
 # About the Authors
 
-**Emily Esten** is a pop culture fanatic with a background in digital scholarship. Esten has worked on a number of creative projects with libraries, museums, and nonprofits interested in data literacy, publishing, and community building.
+**Emily Esten** is a pop culture fanatic with a background in digital scholarship. Esten has worked on a number of creative projects with libraries, museums, and nonprofits interested in data literacy, publishing, and community building. Reach her on Twitter at @sheishistoric and on Mastadon at @estene@hcommons.social
 
-**Kathrine Esten** is a longtime fan of *Saturday Night Live* who loves using historical scholarship as an excuse to indulge in fandom. She currently works full-time in academic publishing and has a background in public policy.
+**Kathrine Esten** is a longtime fan of *Saturday Night Live* who loves using historical scholarship as an excuse to indulge in fandom. She works in academic publishing and public policy. Reach her on Twitter at @KathrineEsten.
 
 ## Special Thanks
 Special thanks to colleagues at the Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries and the Price Lab for Digital Humanities at the University of Pennsylvania for supporting the data collection and analysis as a professional development project.  
